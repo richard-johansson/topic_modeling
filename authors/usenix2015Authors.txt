@@ -1,0 +1,86 @@
+Hadi Asghari, Michael Ciere, and Michel J.G. van Eeten, Delft University of Technology
+Bradley Reaves, Nolen Scaife, Adam Bates, Patrick Traynor, and Kevin R.B. Butler, University of Florida
+Kyle Soska and Nicolas Christin, Carnegie Mellon University
+Mathy Vanhoef and Frank Piessens, Katholieke Universiteit Leuven
+Christina Garman, Johns Hopkins University; Kenneth G. Paterson and Thyla Van der Merwe, University of London
+Ethan Heilman and Alison Kendler, Boston University; Aviv Zohar, Hebrew University of Jerusalem and MSR Israel; Sharon Goldberg, Boston University
+Joeri de Ruiter, Erik Poll, Radboud University Nijmegen
+Lennart Beringer, Princeton University; Adam Petcher, Harvard University and MIT Lincoln Laboratory; Katherine Q. Ye and Andrew W. Appel, Princeton University
+David Kaloper-Meršinjak, Hannes Mehnert, Anil Madhavapeddy, and Peter Sewell, University of Cambridge
+Marten Oltrogge and Yasemin Acar, Leibniz Universität Hannover; Sergej Dechand and Matthew Smith, Universität Bonn; Sascha Fahl, Fraunhofer FKIE
+Frederico Araujo and Kevin W. Hamlen,
+Nicholas Carlini,  Antonio Barresi, Mathias Payer,  David Wagner,
+Hong Hu, Zheng Leong Chua, Sendroiu Adrian, Prateek Saxena, and Zhenkai Liang,
+Aylin Caliskan-Islam, Drexel University; Richard Harang, U.S. Army Research Laboratory; Andrew Liu, University of Maryland; Arvind Narayanan, Princeton University; Clare Voss, U.S. Army Research Laboratory; Fabian Yamaguchi, University of Goettingen; Rachel Greenstadt, Drexel University
+Yixin Sun and Anne Edmundson,  Laurent Vanbever,  Oscar Li, Jennifer Rexford, Mung Chiang, and Prateek Mittal,
+Albert Kwon,  Mashael AlSabah,  David Lazar,  Marc Dacier, Srinivas Devadas,
+Shouling Ji and Weiqing Li,  Prateek Mittal,  Xin Hu, Raheem Beyah,
+David A. Ramos and Dawson Engler,
+Jiang Ming, Dinghao Wu, Gaoyao Xiao, Jun Wang, and Peng Liu,
+Byoungyoung Lee, Chengyu Song, Taesoo Kim, and Wenke Lee,
+Adam Bates, Dave (Jing) Tian, and Kevin R.B. Butler, University of Florida; Thomas Moyer, MIT Lincoln Laboratory
+Igor Smolyar, Muli Ben-Yehuda, and Dan Tsafrir, Technion—Israel Institute of Technology
+Ruowen Wang, Samsung Research America and North Carolina State University; William Enck and Douglas Reeves, North Carolina State University; Xinwen Zhang, Samsung Research America; Peng Ning, Samsung Research America and North Carolina State University; Dingbang Xu, Wu Zhou, and Ahmed M. Azab, Samsung Research America
+Kevin P. Dyer,  Scott E. Coull,  Thomas Shrimpton,
+Marcela S. Melara and Aaron Blankstein,  Joseph Bonneau,  Edward W. Felten and Michael J. Freedman,
+Susan E. McGregor,  Polina Charters, Tobin Holliday, and Franziska Roesner,
+Ling Ren, Christopher Fletcher, and Albert Kwon, Massachusetts Institute of Technology; Emil Stefanov, Elaine Shi, Cornell University; Marten van Dijk, University of Connecticut; Srinivas Devadas, Massachusetts Institute of Technology
+Ashay Rane, Calvin Lin, and Mohit Tiwari, The University of Texas at Austin
+Tien Tuan Anh Dinh, Prateek Saxena, Ee-Chien Chang, Beng Chin Ooi, and Chunwang Zhang, National University of Singapore
+Blase Ur, Sean M. Segreti, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor, Saranga Komanduri, and Darya Kurilova, Michelle L. Mazurek, William Melicher and Richard Shay,
+Nikolaos Karapanos, Claudio Marforio, Claudio Soriente, and Srdjan Čapkun,
+Primal Wijesekera,  Arjun Baokar, Ashkan Hosseini, Serge Egelman, and David Wagner,  Konstantin Beznosov,
+Benny Pinkas, Bar-Ilan University; Thomas Schneider, Technische Universität Darmstadt; Gil Segev, Hebrew University of Jerusalem; Michael Zohner, Technische Universität Darmstadt
+Niklas Buescher and Stefan Katzenbeisser, Technische Universität Darmstadt
+Adam Everspaugh and Rahul Chaterjee, University of Wisconsin—Madison; Samuel Scott, University of London; Ari Juels and Thomas Ristenpart,  Cornell Tech
+Gianluca Stringhini, University College London; Pierre Mourlanne, University of California, Santa Barbara; Gregoire Jacob, Lastline Inc.; Manuel Egele, Boston University; Christopher Kruegel and Giovanni Vigna, University of California, Santa Barbara
+Nav Jagpal, Eric Dingle, Jean-Philippe Gravel, Panayiotis Mavrommatis, Niels Provos, Moheeb Abu Rajab, and Kurt Thomas,
+Kevin Borgolte, Christopher Kruegel, and Giovanni Vigna,
+Eui Chul Richard Shin, Dawn Song, and Reza Moazzezi, University of California, Berkeley
+Shuai Wang, Pei Wang, and Dinghao Wu, The Pennsylvania State University
+Alessandro Di Federico, University of California, Santa Barbara and Politecnico di Milano; Amat Cama, Yan Shoshitaishvili, Christopher Kruegel, and Giovanni Vigna, University of California, Santa Barbara
+Kai Chen, Chinese Academy of Sciences and Indiana University; Peng Wang, Yeonjoon Lee, Xiaofeng Wang, and Nan Zhang, Indiana University; Heqing Huang, The Pennsylvania State University; Wei Zou, Chinese Academy of Sciences; Peng Liu, The Pennsylvania State University
+Jin Chen and Haibo Chen, Shanghai Jiao Tong University; Erick Bauman and Zhiqiang Lin, The University of Texas at Dallas; Binyu Zang and Haibing Guan, Shanghai Jiao Tong University
+Michael Backes, Saarland University and Max Planck Institute for Software Systems (MPI-SWS); Sven Bugiel, Christian Hammer, Oliver Schranz, and  Philipp von Styp-Rekowsky, Saarland University
+Xiaofeng Zheng,  Jian Jiang,  Jinjin Liang,  Haixin Duan,  Shuo Chen,  Tao Wan,  Nicholas Weaver,
+Sebastian Lekies,  Ben Stock,  Martin Wentzel and Martin Johns,
+Michael Weissbacher, William Robertson, and Engin Kirda, Christopher Kruegel and Giovanni Vigna,
+Kassem Fawaz, Huan Feng, and Kang G. Shin, University of Michigan
+Huan Feng, Kassem Fawaz, and Kang G. Shin, University of Michigan
+Yan Michalevsky, Aaron Schulman, Gunaa Arumugam Veerapandian, and Dan Boneh,  Gabi Nakibly,
+Giancarlo Pellegrino,  Davide Balzarotti, Stefan Winter and Neeraj Suri,
+Seyed K. Fayaz, Yoshiaki Tobioka, and Vyas Sekar,  Michael Bailey,
+Bradley Reaves,  Ethan Shernan, Adam Bates,  Henry Carter,  Patrick Traynor,
+Mordechai Guri, Assaf Kachlon, Ofer Hasson, Gabi Kedma, Yisroel Mirsky, and Yuval Elovici, Ben-Gurion University of the Negev
+Ramya Jayaram Masti, Devendra Rai, Aanjhan Ranganathan, Christian Müller, Lothar Thiele, and Srdjan Capkun, ETH Zürich
+Yunmok Son, Hocheol Shin, Dongkwan Kim, Youngseok Park, Juhwan Noh, Kibum Choi, Jungwoo Choi, and Yongdae Kim, Korea Advanced Institute of Science and Technology (KAIST)
+Daniel Gruss, Raphael Spreitzer, and Stefan Mangard,
+Venkatanathan Varadarajan,  Yinqian Zhang,  Thomas Ristenpart, Michael Swift,
+Zhang Xu,  Haining Wang,  Zhenyu Wu,
+Chuangang Ren, The Pennsylvania State University; Yulong Zhang, Hui Xue, and Tao Wei, FireEye, Inc.; Peng Liu, The Pennsylvania State University
+Michael Mitchell and An-I Andy Wang, Florida State University; Peter Reiher, University of California, Los Angeles
+Jianjun Huang, Purdue University; Zhichun Li, Xusheng Xiao, and Zhenyu Wu, NEC Labs America; Kangjie Lu, Georgia Institute of Technology; Xiangyu Zhang, Purdue University; Guofei Jiang, NEC Labs America
+Yuhong Nan, Min Yang, Zhemin Yang, and Shunfan Zhou, Fudan University; Guofei Gu, Texas A&amp;M University; Xiaofeng Wang, Indiana University Bloomington
+Yang Liu, Armin Sarabi, Jing Zhang, and Parinaz Naghizadeh,  Manish Karir, Michael Bailey,  Mingyan Liu,
+Terry Nelms, Roberto Perdisci, Manos Antonakakis,  Mustaque Ahamad,
+Carl Sabottke, Octavian Suciu, and Tudor Dumitraș,
+Mariano Graziano and Davide Canali, Leyla Bilge,  Andrea Lanzi,  Davide Balzarotti,
+Ben Burgess, Eric Wustrow, and J. Alex Halderman,
+Sean Palka, Damon McCoy,
+Tavish Vaidya, Yuankai Zhang, Micah Sherr, and Clay Shields,
+Ian Foster, Andrew Prudhomme, Karl Koscher, and Stefan Savage,
+Michael Rushanan and Stephen Checkoway,
+Antonio Barresi, Kaveh Razavi, Mathias Payer, Thomas R. Gross,
+Gary Wang, Zachary J. Estrada, Cuong Pham, Zbigniew Kalbarczyk, and Ravishankar K. Iyer,
+Dennis Kupser, Christian Mainka, Jorg Schwenk, and Juraj Somorovsky,
+Eduardo Novella Lorente, Carlo Meijer, and Roel Verdult,
+Yin Minn Pa Pa, Shogo Suzuki, Katsunari Yoshioka, and Tsutomu Matsumoto, Takahiro Kasama,  Christian Rossow,
+Oleksandr Bazhaniuk, John Loucaides, Lee Rosenbaum, Mark R. Tuttle, and Vincent Zimmer,
+Karl Koscher,  Tadayoshi Kohno,  David Molnar,
+Takuya Watanabe,  Mitsuaki Akiyama, Tatsuya Mori,
+Or Peles and Roee Hay,
+Wen Xu and Yubin Fu,
+Giancarlo Pellegrino and Christian Rossow,  Fabrice J. Ryba,  Thomas C. Schmidt,  Matthias Wählisch,
+Florian Adamsky,  Syed Ali Khayam, Rudolf Jäger,  Muttukrishnan Rajarajan,
+Clemens Hlauschek, Markus Gruber, Florian Fankhauser, Christian Schanes,
+Benjamin Beurdouche, Antoine Delignat-Lavaud, Nadim Kobeissi, Alfredo Pironti, and Karthikeyan Bhargavan,
