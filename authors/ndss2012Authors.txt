@@ -1,0 +1,45 @@
+Kenneth Paterson and Nadhem Alfardan
+Steven Dibenedetto, Paolo Gasti, Gene Tsudik and Ersin Uzun
+Gabi Nakibly, Alex Kirshon, Dima Gonikman and Dan Boneh
+Abdelberi Chaabane, Gergely Acs and Mohamed Ali Kaafar
+Prateek Mittal, Matthew Caesar and Nikita Borisov
+Hongyu Gao, Yan Chen, Kathy Lee, Diana Palsetia and Alok Choudhary
+Denis Foo Kune, John Koelndorfer, Nicholas Hopper and Yongdae Kim
+Laurent Bindschaedler, Murtuza Jadliwala, Igor Bilogrevic, Imad Aad, Philip Ginzboorg, Valtteri Niemi and Jean-Pierre Hubaux
+Zhiyun Qian, Zhaoguang Wang, Qiang Xu, Z. Morley Mao, Ming Zhang and Yi-Min Wang
+Nico Golde, Kévin Redon and Ravishankar Borgaonkar
+Yangyi Chen, Bo Peng, Xiaofeng Wang and Haixu Tang
+Srinath Setty, Richard Mcpherson, Andrew Blumberg and Michael Walfish
+Emil Stefanov, Elaine Shi and Dawn Song
+Mohammad Islam, Mehmet Kuzu and Murat Kantarcioglu
+Qiang Yan, Jin Han, Yingjiu Li and Robert H. Deng
+Claude Castelluccia, Markus Duermuth and Daniele Perito
+Yan Huang, David Evans and Jonathan Katz
+Sebastian Schrittwieser, Peter Frühwirt, Peter Kieseberg, Manuel Leithner, Martin Mulazzani, Markus Huber and Edgar Weippl
+Lucas Davi, Alexandra Dmitrienko, Manuel Egele, Thomas Fischer, Thorsten Holz, Ralf Hund, Stefan Nürnberger and Ahmad-Reza Sadeghi
+Sven Bugiel, Lucas Davi, Alexandra Dmitrienko, Thomas Fischer, Ahmad-Reza Sadeghi and Bhargava Shastry
+Michael Grace, Yajin Zhou, Zhi Wang and Xuxian Jiang
+Yajin Zhou, Zhi Wang, Wu Zhou and Xuxian Jiang
+Kaan Onarlioglu, Utku Ozan Yilmaz, Engin Kirda and Davide Balzarotti
+Yinzhi Cao, Vinod Yegneswaran, Phillip Porras and Yan Chen
+Zhuhua Cai and Christopher Jermaine
+Man Ho Au, Apu Kapadia and Willy Susilo
+Adam Bates, Kevin Butler, Micah Sherr, Clay Shields, Patrick Traynor and Dan Wallach
+Rob Jansen and Nicholas Hopper
+Zhiqiang Lin, Junghwan Rhee, Chao Wu, Xiangyu Zhang and Dongyan Xu
+Kun Sun, Jiang Wang, Fengwei Zhang and Angelos Stavrou
+Karim Eldefrawy, Gene Tsudik, Aurélien Francillon and Daniele Perito
+Donghai Tian, Qiang Zeng, Dinghao Wu, Peng Liu and Changzhen Hu
+Sangho Lee and Jong Kim
+Hui Xue, Nathan Dautenhahn and Samuel King
+Ting-Fang Yen, Yinglian Xie, Fang Yu, Roger Peng Yu and Martin Abadi
+Lei Liu, Xinwen Zhang, Guanhua Yan and Songqing Chen
+Jian Jiang, Jinjin Liang, Kang Li, Jun Li, Haixin Duan and Jianping Wu
+Xin Zhang, Zongwei Zhou, Hsu-Chun Hsiao, Tiffany Hyun-Jin Kim, Adrian Perrig and Patrick Tague
+Jignesh Patel, Alex Liu and Eric Torng
+Emily Stark, Lin-Shung Huang, Dinesh Israni, Collin Jackson and Dan Boneh
+Hyojeong Lee, Jeff Seibert, Charles Killian and Cristina Nita-Rotaru
+Michael Backes, Matteo Maffei and Kim Pecina
+Kangkook Jee, Georgios Portokalidis, Vasileios P. Kemerlis, Soumyadeep Ghosh, David I. August and Angelos D. Keromytis
+David Dewey and Jon Giffin
+Mingwei Zhang, Aravind Prakash, Xiaolei Li, Zhenkai Liang and Heng Yin

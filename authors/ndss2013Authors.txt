@@ -1,0 +1,49 @@
+Richard A. Kemmerer
+Tey Chee Meng, Payas Gupta, Debin Gao
+Aldo Cassola, William Robertson, Engin Kirda, Guevara Noubir
+Lingjun Li, Xinxin Zhao, and Guoliang Xue
+Robert Templeman, Zahid Rahman, David Crandall, Apu Kapadia
+Yajin Zhou, Xuxian Jiang
+Stephen Smalley and Robert Craig
+Charles Lever, Manos Antonakakis, Brad Reaves, Patrick Traynor, Wenke Lee
+Kyu Hyung Lee, Xiangyu Zhang, Dongyan Xu
+Anil Kurmus, Reinhard Tartler, Daniela Dorneanu, Bernhard Heinloth, Valentin Rothberg, Andreas Ruprecht, Wolfgang Schroder-Preikschat, Daniel Lohmann, and Rudiger Kapitza
+Chiachih Wu, Zhi Wang, Xuxian Jiang
+Ang Cui, Michael Costello and Salvatore J. Stolfo
+Moheeb Abu Rajab, Lucas Ballard, Noe Lutz, Panayiotis Mavrommatis, Niels Provos
+Luyi Xing, Yangyi Chen, XiaoFeng Wang, Shuo Chen
+Michael Backes, Goran Doychev, Boris Kopf
+Jialong Zhang and Guofei Gu
+Guangdong Bai, Jike Lei, Guozhu Meng, Sai Sathyanarayan Venkatraman, Prateek Saxena, Jun Sun, Yang Liu, and Jin Song Dong
+Sooel Son and Vitaly Shmatikov
+Stephen Smalley
+Prateek Mittal, Matthew Wright, Nikita Borisov
+Prateek Mittal, Charalampos Papamanthou, Dawn Song
+Manuel Egele, Gianluca Stringhini, Christopher Kruegel, and Giovanni Vigna
+Gang Wang, Manish Mohanlal, Christo Wilson, Xiao Wang, Miriam Metzger, Haitao Zheng and Ben Y. Zhao
+Jin Han, Qiang Yan, Debin Gao, Jianying Zhou, Robert Deng
+Adam Skillen and Mohammad Mannan
+Kevin Zhijie Chen, Noah Johnson, Vijay D’Silva, Shuaifu Dai, Kyle MacNamara, Tom Magrino, Edward Wu, Martin Rinard, and Dawn Song
+G. Ateniese, G. Bianchi, A. Capossele, C. Petrioli
+Tobias Lauinger, Martin Szydlowski, Kaan Onarlioglu, Gilbert Wondracek, Engin Kirda and Christopher Kruegel
+Seugwon Shin1, Phillip Porras, Vinod Yegneswaran, Martin Fong, Guofei Gu1, Mabry Tyson
+Junjie Zhang, Yinglian Xie, Fang Yu, David Soukal, Wenke Lee
+David Y. Wang, Stefan Savage, and Geoffrey M. Voelker
+Amir Houmansadr, Thomas Riedl, Nikita Borisov, Andrew Singer
+Ryan Henry, Yizhou Huang, and Ian Goldberg
+Qiyan Wang, Zi Lin, Nikita Borisov, Nicholas J. Hopper
+Chris Wacek, Henry Tan, Kevin Bauer, Micah Sherr
+Rob Jansen, Aaron Johnson, Paul Syverson
+Jing Tian, Chengzhang Qu, Wenyuan Xu and Song Wang
+Davide Zanetti, Srdjan Capkun, Ari Juels
+Tibor Jager, Kenneth G. Paterson, Juraj Somorovsky
+Hassan Jameel Asghar, Shujun Li, Ron Steinfeld, Josef Pieprzyk
+Robert A. Cochran, Michael K. Reiter
+Andrew M. White, Srinivas Krishnan, Michael Bailey, Fabian Monrose, Phillip Porras
+Raghav Bhaskar, Saikat Guha, Srivatsan Laxman, Prasad Naldurg
+Mehrdad Aliasgari, Marina Blanton, Yihua Zhang, and Aaron Steele
+Ory Samorodnitzky, Eran Tromer, Avishai Wool
+Sooel Son, Kathryn S. McKinley, Vitaly Shmatikov
+Shobha Venkataraman, David Brumley, Subhabrata Sen, Oliver Spatscheck
+Nedim Srndic and Pavel Laskov
+Davide Canali, Davide Balzarotti
