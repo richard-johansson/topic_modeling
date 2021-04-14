@@ -1,191 +1,187 @@
-[' David Wagner University of California, Berkeley, Berkeley, CA, USA']
-[' Vladimir Kolesnikov Bell Labs, Murray Hill, NJ, USA', ' Jesper Buus Nielsen Aarhus University, Aarhus, Denmark', ' Mike Rosulek Oregon State University, Corvallis, OR, USA', ' Ni Trieu Oregon State University, Corvallis, OR, USA', ' Roberto Trifiletti Aarhus University, Aarhus, Denmark']
-[' Xiao Wang University of Maryland, College Park, MD, USA', ' Samuel Ranellucci University of Maryland & George Mason University, College Park, MD, USA', ' Jonathan Katz University of Maryland, College Park, MD, USA']
-[' Xiao Wang University of Maryland, College Park, MD, USA', ' Samuel Ranellucci University of Maryland & George Mason University, College Park, MD, USA', ' Jonathan Katz University of Maryland, College Park, MD, USA']
-[' Linghan Zhang Florida State University, Tallahassee, FL, USA', ' Sheng Tan Florida State University, Tallahassee, FL, USA', ' Jie Yang Florida State University, Tallahassee, FL, USA']
-[' Jian Liu Rutgers University, New Brunswick, NJ, USA', ' Chen Wang Rutgers University, New Brunswick, NJ, USA', ' Yingying Chen Rutgers University, New Brunswick, NJ, USA', ' Nitesh Saxena University of Alabama at Birmingham, Birmingham, AL, USA']
-[' Zhangkai Zhang Beihang University, Beijing, China', ' Xuhua Ding Singapore Management University, Singapore, Singapore', ' Gene Tsudik University of California, Irvine, Irvine, CA, USA', ' Jinhua Cui Singapore Management University, Singapore, Singapore', ' Zhoujun Li Beihang University, Beijing, China']
-[' Guoming Zhang Zhejiang University, Hangzhou, China', ' Chen Yan Zhejiang University, Hangzhou, China', ' Xiaoyu Ji Zhejiang University, Hangzhou, China', ' Tianchen Zhang Zhejiang University, Hangzhou, China', ' Taimin Zhang Zhejiang University, Hangzhou, China', ' Wenyuan Xu Zhejiang University, Hangzhou, China']
-[' Hung Dang National University of Singapore, Singapore, Singapore', ' Yue Huang National University of Singapore, Singapore, Singapore', ' Ee-Chien Chang National University of Singapore, Singapore, Singapore']
-[' Dongyu Meng ShanghaiTech University, Shanghai, China', ' Hao Chen University of California, Davis, Davis, CA, USA']
-[' Meng Luo Stony Brook University, Stony Brook, NY, USA', ' Oleksii Starov Stony Brook University, Stony Brook, NY, USA', ' Nima Honarmand Stony Brook University, Stony Brook, NY, USA', ' Nick Nikiforakis Stony Brook University, Stony Brook, NY, USA']
-[' Yinzhi Cao Lehigh University, Bethlehem, PA, USA', ' Zhanhao Chen Lehigh University, Bethlehem, PA, USA', ' Song Li Lehigh University, Bethlehem, PA, USA', ' Shujiang Wu Lehigh University, Bethlehem, PA, USA']
-[' Peter Snyder University of Illinois at Chicago, Chicago, IL, USA', ' Cynthia Taylor University of Illinois at Chicago, Chicago, IL, USA', ' Chris Kanich University of Illinois at Chicago, Chicago, IL, USA']
-[' Yujin Kwon Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea', ' Dohyun Kim Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea', ' Yunmok Son Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea', ' Eugene Vasserman Kansas State University, Manhattan, KS, USA', ' Yongdae Kim Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea']
-[' Changyu Dong Newcastle University, Newcastle Upon Tyne, United Kingdom', ' Yilei Wang Newcastle University, Newcastle Upon Tyne, United Kingdom', ' Amjad Aldweesh Newcastle University, Newcastle Upon Tyne, United Kingdom', ' Patrick McCorry University College London, London, United Kingdom', ' Aad van Moorsel Newcastle University, Newcastle Upon Tyne, United Kingdom']
-[' Matteo Campanelli City University of New York Graduate Center, New York, NY, USA', ' Rosario Gennaro The City College of New York, New York, NY, USA', ' Steven Goldfeder Princeton University, Princeton, NJ, USA', ' Luca Nizzardo IMDEA Software Institute & Universidad Politécnica de Madrid, Madrid, Spain']
-[' Ruiyu Zhu Indiana University, Bloomington, IN, USA', ' Yan Huang Indiana University, Bloomington, IN, USA', ' Darion Cassel Carnegie Mellon University & Indiana University, Pittsburgh, PA, USA']
-[' Yehuda Lindell Bar-Ilan University, Ramat-Gan, Israel', ' Ariel Nof Bar-Ilan University, Ramat-Gan, Israel']
-[' Nishanth Chandran Microsoft Research India, Bangalore, India', ' Juan A. Garay Texas A&M University & Yahoo Research, College Station, USA', ' Payman Mohassel Visa Research, Palo Alto, USA', ' Satyanarayana Vusirikala Microsoft Research India, Bangalore, India']
-[' Sarah Pearman Carnegie Mellon University, Pittsburgh, PA, USA', ' Jeremy Thomas Carnegie Mellon University, Pittsburgh, PA, USA', ' Pardis Emami Naeini Carnegie Mellon University, Pittsburgh, PA, USA', ' Hana Habib Carnegie Mellon University, Pittsburgh, PA, USA', ' Lujo Bauer Carnegie Mellon University, Pittsburgh, PA, USA', ' Nicolas Christin Carnegie Mellon University, Pittsburgh, PA, USA', ' Lorrie Faith Cranor Carnegie Mellon University, Pittsburgh, PA, USA', ' Serge Egelman International Computer Science Institute, Berkeley, CA, USA', ' Alain Forget Google, Inc., Mountain View, CA, USA']
-[' Alena Naiakshina University of Bonn, Bonn, Germany', ' Anastasia Danilova University of Bonn, Bonn, Germany', ' Christian Tiefenau University of Bonn, Bonn, Germany', ' Marco Herzog University of Bonn, Bonn, Germany', ' Sergej Dechand University of Bonn, Bonn, Germany', ' Matthew Smith University of Bonn, Bonn, Germany']
-[' Rahul Chatterjee Cornell University & Cornell Tech, New York City, NY, USA', ' Joanne Woodage Royal Holloway, University of London, London, United Kingdom', ' Yuval Pnueli Technion -- Israel Institute of Technology, Haifa, Israel', ' Anusha Chowdhury Cornell University, Ithaca, NY, USA', ' Thomas Ristenpart Cornell University & Cornell Tech, New York City, NY, USA']
-[' Yan Shoshitaishvili Arizona State University, Tempe, AZ, USA', ' Michael Weissbacher Northeastern University, Boston, MA, USA', ' Lukas Dresel University of California, Santa Barbara, Santa Barbara, CA, USA', ' Christopher Salls University of California, Santa Barbara, Santa Barbara, CA, USA', ' Ruoyu Wang University of California, Santa Barbara, Santa Barbara, CA, USA', ' Christopher Kruegel University of California, Santa Barbara, Santa Barbara, CA, USA', ' Giovanni Vigna University of California, Santa Barbara, Santa Barbara, CA, USA']
-[' Xiaojun Xu Shanghai Jiao Tong University, Shanghai, China', ' Chang Liu University of California, Berkeley, Berkeley, CA, USA', ' Qian Feng Samsung Research America, Mountain View, CA, USA', ' Heng Yin University of California, Riverside, Riverside, CA, USA', ' Le Song Georgia Institute of Technology, Atlanta, GA, USA', ' Dawn Song University of California, Berkeley, Berkeley, CA, USA']
-[' Yang Ji Georgia Institute of Technology, Atlanta, GA, USA', ' Sangho Lee Georgia Institute of Technology, Atlanta, GA, USA', ' Evan Downing Georgia Institute of Technology, Atlanta, GA, USA', ' Weiren Wang Georgia Institute of Technology, Atlanta, GA, USA', ' Mattia Fazzini Georgia Institute of Technology, Atlanta, GA, USA', ' Taesoo Kim Georgia Institute of Technology, Atlanta, GA, USA', ' Alessandro Orso Georgia Institute of Technology, Atlanta, GA, USA', ' Wenke Lee Georgia Institute of Technology, Atlanta, GA, USA']
-[' Martin Kučera ETH Zurich, Zurich, Switzerland', ' Petar Tsankov ETH Zurich, Zurich, Switzerland', ' Timon Gehr ETH Zurich, Zurich, Switzerland', ' Marco Guarnieri ETH Zurich, Zurich, Switzerland', ' Martin Vechev ETH Zurich, Zurich, Switzerland']
-[' Véronique Cortier CNRS, LORIA, Nancy, France', ' Niklas Grimm TU Wien, Vienna, Austria', ' Joseph Lallemand Inria, LORIA, Nancy, France', ' Matteo Maffei TU Wien, Vienna, Austria']
-[' Zhan Qin State University of New York at Buffalo & Hamad Bin Khalifa University, Buffalo, NY, USA', ' Ting Yu Hamad Bin Khalifa University, Doha, Qatar', ' Yin Yang Hamad Bin Khalifa University, Doha, Qatar', ' Issa Khalil Hamad Bin Khalifa University, Doha, Qatar', ' Xiaokui Xiao Nanyang Technological University, Singapore, Singapore', ' Kui Ren State University of New York at Buffalo & Qatar Computing Research Institute, Buffalo, NY, USA']
-[' Rami Khalil ETH Zurich, Zurich, Switzerland', ' Arthur Gervais ETH Zurich, Zurich, Switzerland']
-[' Giulio Malavolta Friedrich-Alexander-University Erlangen-Nürnberg, Nürnberg, Germany', ' Pedro Moreno-Sanchez Purdue University, West Lafayette, IN, USA', ' Aniket Kate Purdue University, West Lafayette, IN, USA', ' Matteo Maffei TU Wien, Vienna, Austria', ' Srivatsan Ravi University of Southern California, Los Angeles, CA, USA']
-[' Matthew Green Johns Hopkins University, Baltimore, MD, USA', ' Ian Miers Johns Hopkins University, Baltimore, MD, USA']
-[' Thang Hoang Oregon State University, Corvallis, OR, USA', ' Ceyhun D. Ozkaptan Oregon State University, Corvallis, OR, USA', ' Attila A. Yavuz Oregon State University, Corvallis, OR, USA', ' Jorge Guajardo Robert Bosch RTC, Pittsburgh, PA, USA', ' Tam Nguyen Oregon State University, Corvallis, OR, USA']
-[' Daniel S. Roche United States Naval Academy, Annapolis, MD, USA', ' Adam Aviv United States Naval Academy, Annapolis, MD, USA', ' Seung Geol Choi United States Naval Academy, Annapolis, MD, USA', ' Travis Mayberry United States Naval Academy, Annapolis, MD, USA']
-[' Jack Doerner Northeastern University, Boston, MA, USA', ' Abhi Shelat Northeastern University, Boston, MA, USA']
-[' Daiping Liu University of Delaware, Newark, DE, USA', ' Zhou Li ACM Member, Boston, MA, USA', ' Kun Du Tsinghua University, Beijing, China', ' Haining Wang University of Delaware, Newark, DE, USA', ' Baojun Liu Tsinghua University, Beijing, China', ' Haixin Duan Tsinghua University, Beijing, China']
-[' Samaneh Tajalizadehkhoob Delft University of Technology, Delft, Netherlands', ' Tom Van Goethem imec-DistriNet, KU Leuven, Leuven, Belgium', ' Maciej Korczyński Delft University of Technology, Delft, Netherlands', ' Arman Noroozian Delft University of Technology, Delft, Netherlands', ' Rainer Böhme Innsbruck University, Innsbruck, Austria', ' Tyler Moore University of Tulsa, Tulsa, OK, USA', ' Wouter Joosen imec-DistriNet, KU Leuven, Leuven, Belgium', ' Michel van Eeten Delft University of Technology, Delft, Netherlands']
-[' Panagiotis Kintis Georgia Institute of Technology, Atlanta, GA, USA', ' Najmeh Miramirkhani Stony Brook University, Brookhaven, NY, USA', ' Charles Lever Georgia Institute of Technology, Atlanta, GA, USA', ' Yizheng Chen Georgia Institute of Technology, Atlanta, GA, USA', ' Rosa Romero-Gómez Georgia Institute of Technology, Atlanta, GA, USA', ' Nikolaos Pitropakis London South Bank University, London, United Kingdom', ' Nick Nikiforakis Stony Brook University, Brookhaven, NY, USA', ' Manos Antonakakis Georgia Institute of Technology, Atlanta, GA, USA']
-[' Congzheng Song Cornell University, Ithaca, NY, USA', ' Thomas Ristenpart Cornell Tech, New York, NY, USA', ' Vitaly Shmatikov Cornell Tech, New York, NY, USA']
-[' Briland Hitaj Stevens Institute of Technology & University of Rome - La Sapienza, Hoboken, NJ, USA', ' Giuseppe Ateniese Stevens Institute of Technology, Hoboken, NJ, USA', ' Fernando Perez-Cruz Stevens Institute of Technology, Hoboken, NJ, USA']
-[' Jian Liu Aalto University, Espoo, Finland', ' Mika Juuti Aalto University, Espoo, Finland', ' Yao Lu Aalto University, Espoo, Finland', ' N. Asokan Aalto University, Espoo, Finland']
-[' Bernd Finkbeiner CISPA, Saarland University, Saarbrücken, Germany', ' Christian Müller Technische Universität München, München, Germany', ' Helmut Seidl Technische Universität München, München, Germany', ' Eugen Zălinescu Technische Universität München, München, Germany']
-[' Miguel Ambrona IMDEA Software Institute & Universidad Politecnica de Madrid, Madrid, Spain', ' Gilles Barthe IMDEA Software Institute, Madrid, Spain', ' Romain Gay ENS, Paris, France', ' Hoeteck Wee CNRS & ENS, Paris, France']
-[' Shashank Agrawal Visa Research & Microsoft Research, Palo Alto, CA, USA', ' Melissa Chase Microsoft Research, Redmond, WA, USA']
-[' Jan Camenisch IBM Research - Zurich, Zurich, Switzerland', ' Manu Drijvers IBM Research - Zurich & ETH Zurich, Zurich, Switzerland', ' Maria Dubovitskaya IBM Research - Zurich, Zurich, Switzerland']
-[' Ethan Cecchetti Cornell University; IC3, Ithaca, NY, USA', ' Fan Zhang Cornell University; IC3, Ithaca, NY, USA', ' Yan Ji Cornell University; IC3, Ithaca, NY, USA', ' Ahmed Kosba University of Maryland; IC3, College Park, MD, USA', ' Ari Juels Cornell Tech, Jacobs Institute; IC3, Ithaca, NY, USA', ' Elaine Shi Cornell University; IC3, Ithaca, NY, USA']
-[' Arka Rai Choudhuri Johns Hopkins University, Baltimore, MD, USA', ' Matthew Green Johns Hopkins University, Baltimore, MD, USA', ' Abhishek Jain Johns Hopkins University, Baltimore, MD, USA', ' Gabriel Kaptchuk Johns Hopkins University, Baltimore, MD, USA', ' Ian Miers Johns Hopkins University, Baltimore, MD, USA']
-[' Brent Carmer Oregon State University & Galois, Inc., Portland, OR, USA', ' Alex J. Malozemoff Galois, Inc., Portland, OR, USA', ' Mariana Raykova Yale University, New Haven, CT, USA']
-[' Ben Fisch Stanford University, Stanford University, CA, USA', ' Dhinakaran Vinayagamurthy University of Waterloo, Waterloo, ON, Canada', ' Dan Boneh Stanford University, Stanford, CA, USA', ' Sergey Gorbunov University of Waterloo, Waterloo, ON, Canada']
-[' Shai Halevi IBM Research, Yorktown Heights, NY, USA', ' Tzipora Halevi CUNY Brooklyn College, Brooklyn, NY, USA', ' Victor Shoup IBM Research & New York University, New York, NY, USA', ' Noah Stephens-Davidowitz New York University, New York, NY, USA']
-[' Chaoshun Zuo University of Texas at Dallas, Dallas, TX, USA', ' Qingchuan Zhao University of Texas at Dallas, Dallas, TX, USA', ' Zhiqiang Lin University of Texas at Dallas, Dallas, TX, USA']
-[' Yi Chen Chinese Academy of Sciences, Beijing, China', ' Wei You Indiana University, Bloomington, Bloomington, IN, USA', ' Yeonjoon Lee Indiana University Bloomington, Bloomington, IN, USA', ' Kai Chen Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' XiaoFeng Wang Indiana University, Bloomington, Bloomington, IN, USA', ' Wei Zou Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China']
-[' Tongxin Li Peking University & Indiana University, Bloomington, Beijing, China', ' Xueqiang Wang Indiana University, Bloomington, Bloomington, IN, USA', ' Mingming Zha Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Kai Chen Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' XiaoFeng Wang Indiana University, Bloomington, Bloomington, IN, USA', ' Luyi Xing Indiana University, Bloomington, Bloomington, IN, USA', ' Xiaolong Bai Tsinghua University, Beijing, China', ' Nan Zhang Indiana University, Bloomington, Bloomington, IN, USA', ' Xinhui Han Peking University, Beijing, China']
-[' Daniel Genkin University of Pennsylvania & University of Maryland, Philadelphia and College Park, PA, USA', ' Luke Valenta University of Pennsylvania, Philadelphia, PA, USA', ' Yuval Yarom University of Adelaide & Data61, Adelaide, Australia']
-[' Yuan Xiao Ohio State University, Columbus, OH, USA', ' Mengyuan Li Ohio State University, Columbus, OH, USA', ' Sanchuan Chen Ohio State University, Columbus, OH, USA', ' Yinqian Zhang Ohio State University, Columbus, OH, USA']
-[' Jia Chen University of Texas at Austin, Austin, TX, USA', ' Yu Feng University of Texas at Austin, Austin, TX, USA', ' Isil Dillig University of Texas at Austin, Austin, TX, USA']
-[' Mihir Bellare University of California, San Diego, La Jolla, CA, USA', ' Joseph Jaeger University of California, San Diego, La Jolla, CA, USA', ' Julia Len University of California, San Diego, La Jolla, CA, USA']
-[' Alexander Russell University of Connecticut, Storrs, CT, USA', ' Qiang Tang New Jersey Institute of Technology, Newark, NJ, USA', ' Moti Yung Snap.Inc & Columbia University, New York City, NY, USA', ' Hong-Sheng Zhou Virginia Commonwealth University, Richmand, VA, USA']
-[' Mihir Bellare University of California, San Diego, La Jolla, CA, USA', ' Wei Dai University of California, San Diego, La Jolla, CA, USA']
-[' Qi Alfred Chen University of Michigan, Ann Arbor, MI, USA', ' Matthew Thomas Verisign Labs, Reston, VA, USA', ' Eric Osterweil Verisign Labs, Reston, VA, USA', ' Yulong Cao University of Michigan, Ann Arbor, MI, USA', ' Jie You University of Michigan, Ann Arbor, MI, USA', ' Z. Morley Mao University of Michigan, Ann Arbor, MI, USA']
-[' Thomas Vissers imec-DistriNet, KU Leuven, Leuven, Belgium', ' Timothy Barron Stony Brook University, Stony Brook, NY, USA', ' Tom Van Goethem imec-DistriNet, KU Leuven, Leuven, Belgium', ' Wouter Joosen imec-DistriNet, KU Leuven, Leuven, Belgium', ' Nick Nikiforakis Stony Brook University, Stony Brook, NY, USA']
-[' Zain Shamsi Texas A&M University, College Station, TX, USA', ' Daren B.H. Cline Texas A&M University, College Station, TX, USA', ' Dmitri Loguinov Texas A&M University, College Station, TX, USA']
-[' Dmitry Kogan Stanford University, Stanford, CA, USA', ' Nathan Manohar Stanford University, Stanford, CA, USA', ' Dan Boneh Stanford University, Stanford, CA, USA']
-[' Joel Alwen IST Austia, Vienna, IN, USA', ' Jeremiah Blocki Purdue University, West Lafayette, IN, USA', ' Ben Harsha Purdue University, West Lafayette, IN, USA']
-[' Shay Gueron University of Haifa and Amazon Web Services, Haifa, Israel', ' Yehuda Lindell Bar-Ilan University, Ramat Gan, Israel']
-[' Jie Huang Saarland University, SAARBRÜCKEN, Germany', ' Oliver Schranz Saarland University, SAARBRÜCKEN, Germany', ' Sven Bugiel Saarland University, SAARBRÜCKEN, Germany', ' Michael Backes Saarland University, SAARBRÜCKEN, Germany']
-[' Lingguang Lei Chinese Academy of Sciences & Chinese Academy of Sciences, Beijing, China', ' Yi He Tsinghua University, Beijing, China', ' Kun Sun George Mason University, Fairfax, VA, USA', ' Jiwu Jing Chinese Academy of Sciences & Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China', ' Yuewu Wang Chinese Academy of Sciences & Chinese Academy of Sciences, Beijing, China', ' Qi Li Tsinghua University, Beijing, China', ' Jian Weng Jinan University, Guangzhou, China']
-[' Duc Cuong Nguyen Saarland University, Saarbrücken, Germany', ' Dominik Wermke Leibniz University, Hannover, Hannover, Germany', ' Yasemin Acar Leibniz University, Hannover, Hannover, Germany', ' Michael Backes Saarland University, Saarbrücken, Germany', ' Charles Weir Lancaster University, Lancaster, Germany', ' Sascha Fahl Leibniz University, Hannover, Hannover, Germany']
-[' Mohammad A. Islam University of California, Riverside, Riverside, CA, USA', ' Shaolei Ren University of California, Riverside, Riverside, CA, USA', ' Adam Wierman California Institute of Technology, PASADENA, CA, USA']
-[' Yi Han Rutgers University, Piscataway, NJ, USA', ' Sriharsha Etigowni Rutgers University, Piscataway, NJ, USA', ' Hua Liu Rutgers University, Piscataway, NJ, USA', ' Saman Zonouz Rutgers University, Piscataway, NJ, USA', ' Athina Petropulu Rutgers University, Piscataway, NJ, USA']
-[' Kyong-Tak Cho University of Michigan, Ann Arbor, MI, USA', ' Kang G. Shin University of Michigan, Ann Arbor, MI, USA']
-[' Yizheng Chen Georgia Institute of Technology, Atlanta, GA, USA', ' Yacin Nadji Georgia Institute of Technology, Atlanta, GA, USA', ' Athanasios Kountouras Georgia Institute of Technology, Atlanta, GA, USA', ' Fabian Monrose University of North Carolina at Chapel Hill, Chapel Hill, NC, USA', ' Roberto Perdisci University of Georgia, Athens, GA, USA', ' Manos Antonakakis Georgia Institute of Technology, Atlanta, GA, USA', ' Nikolaos Vasiloglou Symantec CAML Group, Atlanta, GA, USA']
-[' Yuanshun Yao University of Chicago, Chicago, IL, USA', ' Bimal Viswanath University of Chicago, Chicago, IL, USA', ' Jenna Cryan University of Chicago, Chicago, IL, USA', ' Haitao Zheng University of Chicago, Chicago, IL, USA', ' Ben Y. Zhao University of Chicago, Chicago, IL, USA']
-[' Shirin Nilizadeh University of California, Santa Barbara, Santa Barbara, CA, USA', ' Francois Labrèche Ecole Polytechnique de Montréal, Montreal, PQ, Canada', ' Alireza Sedighian Ecole Polytechnique de Montréal, Montreal, PQ, Canada', ' Ali Zand University of California, Santa Barbara, Santa Barbara, CA, USA', ' José Fernandez Ecole Polytechnique de Montréal, Montreal, PQ, Canada', ' Christopher Kruegel University of California, Santa Barbara, Santa Barbara, CA, USA', ' Gianluca Stringhini University College London, London, England UK', ' Giovanni Vigna University of California, Santa Barbara, Santa Barbara, CA, USA']
-[' Keith Bonawitz Google Inc., Mountain View, CA, USA', ' Vladimir Ivanov Google Inc., Mountain View, CA, USA', ' Ben Kreuter Google Inc., Mountain View, CA, USA', ' Antonio Marcedone Cornell Tech & Google Inc., New York, NY, USA', ' H. Brendan McMahan Google Inc., Mountain View, CA, USA', ' Sarvar Patel Google Inc., Mountain View, CA, USA', ' Daniel Ramage Google Inc., Mountain View, CA, USA', ' Aaron Segal Google Inc., Mountain View, CA, USA', ' Karn Seth Google Inc., Mountain View, CA, USA']
-[' Anupam Datta Carnegie Mellon University, Pittsburgh, PA, USA', ' Matthew Fredrikson Carnegie Mellon University, Pittsburgh, PA, USA', ' Gihyuk Ko Carnegie Mellon University, Pittsburgh, PA, USA', ' Piotr Mardziel Carnegie Mellon University, Pittsburgh, PA, USA', ' Shayak Sen Carnegie Mellon University, Pittsburgh, PA, USA']
-[' Fahad Shaon University of Texas at Dallas, Richardson, TX, USA', ' Murat Kantarcioglu University of Texas at Dallas, Richardson, TX, USA', ' Zhiqiang Lin University of Texas at Dallas, Richardson, TX, USA', ' Latifur Khan University of Texas at Dallas, Richardson, TX, USA']
-[' Peter Rindal Oregon State University, Corvallis, OR, USA', ' Mike Rosulek Oregon State University, Corvallis, OR, USA']
-[' Hao Chen Microsoft Research, Redmond, WA, USA', ' Kim Laine Microsoft Research, Redmond, WA, USA', ' Peter Rindal Oregon State University, Corvallis, OR, USA']
-[' Vladimir Kolesnikov Bell Labs, Murray Hill, NJ, USA', ' Naor Matania Bar-Ilan University, Tel Aviv, Israel', ' Benny Pinkas Bar-Ilan University, Tel Aviv, Israel', ' Mike Rosulek Oregon State University, Corvallis, OR, USA', ' Ni Trieu Oregon State University, Corvallis, OR, USA']
-[' Hossein Siadati New York University, Brooklyn, NY, USA', ' Nasir Memon New York University, Brooklyn, NY, USA']
-[' Min Du University of Utah, Salt Lake City, UT, USA', ' Feifei Li University of Utah, Salt Lake City, UT, USA', ' Guineng Zheng University of Utah, Salt Lake City, UT, USA', ' Vivek Srikumar University of Utah, Salt Lake City, UT, USA']
-[' Leyla Bilge Symantec Research Labs, Sophia-Antipolis, France', ' Yufei Han Symantec Research Labs, Sophia-Antipolis, France', " Matteo Dell'Amico Symantec Research Labs, Sophia-Antipolis, France"]
-[' Mathy Vanhoef imec-DistriNet, KU Leuven, Leuven, Belgium', ' Frank Piessens imec-DistriNet, KU Leuven, KU Leuven, Belgium']
-[' Maliheh Shirvanian University of Alabama at Birmingham, Birmingham, AL, USA', ' Nitesh Saxena University of Alabama at Birmingham, Birmingham, AL, USA']
-[' Yong Li Huawei Technologies Düsseldorf, Düsseldorf, Germany', ' Sven Schäge Ruhr-Universität Bochum, Bochum, Germany']
-[' Syed Mahbub Hafiz Indiana University, Bloomington, IN, USA', ' Ryan Henry Indiana University, Bloomington, IN, USA']
-[' Yan Chen Duke University, Durham, NC, USA', ' Ashwin Machanavajjhala Duke University, Durham, NC, USA', ' Michael Hay Colgate University, Hamilton, NY, USA', ' Gerome Miklau University of Massachusetts Amherst, Amherst, MA, USA']
-[' Xi He Duke University, Durham, NC, USA', ' Ashwin Machanavajjhala Duke University, Durham, NC, USA', ' Cheryl Flynn AT&T Labs-Research, Florham Park, NJ, USA', ' Divesh Srivastava AT&T Labs-Research, Florham Park, NJ, USA']
-[' Mustafa Emre Acer Google Inc., Mountain View, CA, USA', ' Emily Stark Google Inc., Mountain View, CA, USA', ' Adrienne Porter Felt Google Inc., Mountain View, CA, USA', ' Sascha Fahl Leibniz University Hannover, Hannover, Germany', ' Radhika Bhargava Purdue University, West Lafayette, IN, USA', ' Bhanu Dev International Institute of Information Technology, Hyderabad, Hyderabad, India', ' Matt Braithwaite Google Inc., Mountain View, CA, USA', ' Ryan Sleevi Google Inc., Mountain View, CA, USA', ' Parisa Tabriz Google Inc., Mountain View, CA, USA']
-[' Kurt Thomas Google, Mountain View, CA, USA', ' Frank Li University of California, Berkeley, Berkeley, CA, USA', ' Ali Zand Google, Mountain View, CA, USA', ' Jacob Barrett Google, Mountain Vieww, CA, USA', ' Juri Ranieri Google, Mountain View, CA, USA', ' Luca Invernizzi Google, Mountain View, CA, USA', ' Yarik Markov Google, Mountain View, CA, USA', ' Oxana Comanescu Google, Mountain View, CA, USA', ' Vijay Eranti Google, Mountain View, CA, USA', ' Angelika Moscicki Google, Mountain View, CA, USA', ' Daniel Margolis Google, Mountain View, CA, USA', ' Vern Paxson University of California, Berkeley & International Computer Science Institute, Berkeley, CA, USA', ' Elie Bursztein Google, Mountain View, CA, USA']
-[' Doowon Kim University of Maryland, College Park, MD, USA', ' Bum Jun Kwon University of Maryland, College Park, MD, USA', ' Tudor Dumitraş University of Maryland, College Park, MD, USA']
-[' Kee Sung Kim National Security Research Institute, Daejeon, Republic of Korea', ' Minkyu Kim National Security Research Institute, Daejeon, Republic of Korea', ' Dongsoo Lee National Security Research Institute, Daejeon, Republic of Korea', ' Je Hong Park National Security Research Institute, Daejeon, Republic of Korea', ' Woo-Hwan Kim National Security Research Institute, Daejeon, Republic of Korea']
-[" Raphaël Bost Direction Générale de l'Armement & Université de Rennes 1, Rennes, France", ' Brice Minaud Royal Holloway, University of London, London, United Kingdom', ' Olga Ohrimenko Microsoft Research, Cambridge, United Kingdom']
-[' Luca Allodi Eindhoven University of Technology, Eindhoven, Netherlands']
-[' Alexander Gamero-Garrido University of California, San Diego, San Diego, CA, USA', ' Stefan Savage University of California, San Diego, San Diego, CA, USA', ' Kirill Levchenko University of California, San Diego, San Diego, CA, USA', ' Alex C. Snoeren University of California, San Diego, San Diego, CA, USA']
-[' Mihir Bellare University of California, San Diego, La Jolla, CA, USA', ' Viet Tung Hoang Florida State University, Tallahassee, FL, USA']
-[' Animesh Chhotaray University of Florida, Gainesville, FL, USA', ' Adib Nahiyan University of Florida, Gainesville, FL, USA', ' Thomas Shrimpton University of Florida, Gainesville, FL, USA', ' Domenic Forte University of Florida, Gainesville, FL, USA', ' Mark Tehranipoor University of Florida, Gainesville, FL, USA']
-[' Gottfried Herold Ecole Normale Supérieure, Lyon, France', ' Max Hoffmann Ruhr-Universität Bochum, Bochum, Germany', ' Michael Klooß Karlsruhe Institute of Technology, Karlsruhe, Germany', ' Carla Ràfols Universitat Pompeu Fabra, Barcelona, Spain', ' Andy Rupp Karlsruhe Institute of Technology, Karlsruhe, Germany']
-[' Rafaël del Pino IBM Research - Zurich, Ruschlikon, Switzerland', ' Vadim Lyubashevsky IBM Research - Zurich, Ruschlikon, Switzerland', ' Gregory Neven IBM Research - Zurich, Ruschlikon, Switzerland', ' Gregor Seiler IBM Research - Zurich, Ruschlikon, Switzerland']
-[' Vasilios Mavroudis University College London, London, United Kingdom', ' Andrea Cerulli University College London, London, United Kingdom', ' Petr Svenda Masaryk University, Brno, Czech Rep', ' Dan Cvrcek EnigmaBridge, Cambridge, United Kingdom', ' Dusan Klinec EnigmaBridge, Cambridge, United Kingdom', ' George Danezis University College London, London, United Kingdom']
-[' Muhammad Yasin New York University, New York, NY, USA', ' Abhrajit Sengupta New York University, New York, NY, USA', ' Mohammed Thari Nabeel New York University Abu Dhabi, Abu Dhabi, Uae', ' Mohammed Ashraf New York University Abu Dhabi, Abu Dhabi, Uae', ' Jeyavijayan (JV) Rajendran The University of Texas at Dallas & Texas A&M University, Richardson, TX, USA', ' Ozgur Sinanoglu New York University Abu Dhabi, Abu Dhabi, Uae']
-[" Matus Nemec Masaryk University, Ca' Foscari University of Venice, Brno, Czech Rep", ' Marek Sys Masaryk University, Brno, Czech Rep', ' Petr Svenda Masaryk University, Brno, Czech Rep', ' Dusan Klinec EnigmaBridge, Masaryk University, Brno, Czech Rep', ' Vashek Matyas Masaryk University, Brno, Czech Rep']
-[' Sebastian Berndt University of Lübeck, Lübeck, Germany', ' Maciej Liśkiewicz University of Lübeck, Lübeck, Germany']
-[' Shahin Tajik Technische Universität Berlin, Berlin, Germany', ' Heiko Lohrke Technische Universität Berlin, Berlin, Germany', ' Jean-Pierre Seifert Technische Universität Berlin, Berlin, Germany', ' Christian Boit Technische Universität Berlin, Berlin, Germany']
-[' Victor van der Veen Vrije Universiteit Amsterdam, Amsterdam, Netherlands', ' Dennis Andriesse Vrije Universiteit Amsterdam, Amsterdam, Netherlands', ' Manolis Stamatogiannakis Vrije Universiteit Amsterdam, Amsterdam, Netherlands', ' Xi Chen Vrije Universiteit Amsterdam & Microsoft, Amsterdam, Netherlands', ' Herbert Bos Vrije Universiteit Amsterdam, Amsterdam, Netherlands', ' Cristiano Giuffrdia Vrije Universiteit Amsterdam, Amsterdam, Netherlands']
-[' David Korczynski University of Oxford, Oxford, United Kingdom', ' Heng Yin University of California, Riverside, Riverside, USA']
-[' Sebastian Lekies Google, Zürich, Switzerland', ' Krzysztof Kotowicz Google, Zürich, Switzerland', ' Samuel Groß SAP, Karlsruhe, Germany', ' Eduardo A. Vela Nava Google, Zürich, Switzerland', ' Martin Johns SAP, Karlsruhe, Germany']
-[' Huasong Shan Louisiana State University, Baton Rouge, LA, USA', ' Qingyang Wang Louisiana State University, Baton Rouge, LA, USA', ' Calton Pu Georgia Institute of Technology, Atlanta, GA, USA']
-[' Ada Lerner Wellesley College & University of Washington, Wellesley, MA, USA', ' Tadayoshi Kohno University of Washington, Seattle, WA, USA', ' Franziska Roesner University of Washington, Seattle, WA, USA']
-[' Giancarlo Pellegrino CISPA, Saarland University, Saarbruecken, Germany', ' Martin Johns SAP SE, Walldorf, Germany', ' Simon Koch CISPA, Saarland University, Saarbruecken, Germany', ' Michael Backes CISPA, Saarland University, Saarbruecken, Germany', ' Christian Rossow CISPA, Saarland University, Saarbruecken, Germany']
-[' Cas Cremers University of Oxford, Oxford, United Kingdom', ' Marko Horvat MPI-SWS, Kaiserslautern, Germany', ' Jonathan Hoyland Royal Holloway, University of London, London, United Kingdom', ' Sam Scott Royal Holloway, University of London, London, United Kingdom', ' Thyla van der Merwe Royal Holloway, University of London, London, United Kingdom']
-[' Jean-Karim Zinzindohoué INRIA, Paris, France', ' Karthikeyan Bhargavan INRIA, Paris, France', ' Jonathan Protzenko Microsoft Research, Redmond, WA, USA', ' Benjamin Beurdouche INRIA, Paris, France']
-[' José Bacelar Almeida INESC TEC and Universidade do Minho, Braga, Portugal', ' Manuel Barbosa INESC TEC and FCUP Universidade do Porto, Porto, Portugal', ' Gilles Barthe IMDEA Software Institute, Madrid, Spain', ' Arthur Blot ENS Lyon, Lyon, France', ' Benjamin Grégoire Inria Sophia-Antipolis, Valbonne, France', ' Vincent Laporte IMDEA Software Institute, Madrid, Spain', ' Tiago Oliveira INESC TEC and FCUP Universidade do Porto, Porto, Portugal', ' Hugo Pacheco INESC TEC and Universidade do Minho, Braga, Portugal', ' Benedikt Schmidt Google Inc., Mountain View, CA, USA', ' Pierre-Yves Strub École Polytechnique, Paris, France']
-[' Melissa Chase Microsoft Research, Redmond, WA, USA', ' David Derler Graz University of Technology, Graz, Austria', ' Steven Goldfeder Princeton University, Princeton, NJ, USA', ' Claudio Orlandi Aarhus University, Aarhus, Denmark', ' Sebastian Ramacher Graz University of Technology, Graz, Austria', ' Christian Rechberger Graz University of Technology & Denmark Technical University, Graz, Austria', ' Daniel Slamanig AIT Austrian Institute of Technology, Vienna, Austria', ' Greg Zaverucha Microsoft Research, Redmond, WA, USA']
-[' Peter Pessl Graz University of Technology, Graz, Austria', ' Leon Groot Bruinderink Technische Universiteit Eindhoven, Eindhoven, Netherlands', ' Yuval Yarom University of Adelaide and Data61, Adelaide, Australia']
-[' Thomas Espitau UPMC, Paris, France', ' Pierre-Alain Fouque Université de Rennes I, Rennes, France', ' Benoît Gérard DGA.MI, Bruz, France', ' Mehdi Tibouchi NTT Corporation, Tokyo, Japan']
-[' Ethan Cecchetti Cornell University, Ithaca, NY, USA', ' Andrew C. Myers Cornell University, Ithaca, NY, USA', ' Owen Arden University of California, Santa Cruz & Harvard University, Santa Cruz, CA, USA']
-[' Lucas Waye Harvard University, Cambridge, MA, USA', ' Pablo Buiras Harvard University, Cambridge, MA, USA', ' Owen Arden University of California, Santa Cruz, Santa Cruz, CA, USA', ' Alejandro Russo Chalmers University of Technology, Gothenburg, Sweden', ' Stephen Chong Harvard University, Cambridge, MA, USA']
-[' Wenhao Wang University of Texas at Dallas, Richardson, TX, USA', ' Xiaoyang Xu University of Texas at Dallas, Richardson, TX, USA', ' Kevin W. Hamlen University of Texas at Dallas, Richardson, TX, USA']
-[' Gunnar Hartung Karlsruhe Institute of Technology, Karlsruhe, Germany', ' Max Hoffmann Ruhr-Universität Bochum, Bochum, Germany', ' Matthias Nagel Karlsruhe Institute of Technology, Karlsruhe, Germany', ' Andy Rupp Karlsruhe Institute of Technology, Karlsruhe, Germany']
-[' Michael Backes Saarland University, Saarbruecken, Germany', ' Mathias Humbert ETH Zurich and EPFL, Lausanne, Switzerland', ' Jun Pang University of Luxembourg, Luxembourg, Luxembourg', ' Yang Zhang Saarland University, Saarbruecken, Germany']
-[' Simon Oya University of Vigo, Vigo, Spain', ' Carmela Troncoso IMDEA Software Institute, Madrid, Spain', ' Fernando Pérez-González University of Vigo, Vigo, Spain']
-[' Ming-Hsien Tsai Academia Sinica, Taipei, Taiwan Roc', ' Bow-Yaw Wang Academia Sinica, Taipei, Taiwan Roc', ' Bo-Yin Yang Academia Sinica, Taipei, Taiwan Roc']
-[' José Bacelar Almeida INESC TEC & Universidade do Minho, Braga, Portugal', ' Manuel Barbosa INESC TEC & FCUP Universidade do Porto, Porto, Portugal', ' Gilles Barthe IMDEA Software Institute, Madrid, Spain', ' François Dupressoir University of Surrey, Guildford, United Kingdom', ' Benjamin Grégoire Inria Sophia-Antipolis, Nice, France', ' Vincent Laporte IMDEA Software Institute, Madrid, Spain', ' Vitor Pereira INESC TEC & FCUP Universidade do Porto, Porto, Portugal']
-[' Katherine Q. Ye Princeton University & Carnegie Mellon University, Princeton, NJ, USA', ' Matthew Green Johns Hopkins University, Baltimore, MD, USA', ' Naphat Sanguansin Princeton University, Princeton, NJ, USA', ' Lennart Beringer Princeton University, Princeton, NJ, USA', ' Adam Petcher Oracle, Boston, MA, USA', ' Andrew W. Appel Princeton University, Princeton, NJ, USA']
-[' Rebekah Overdorf Drexel University, Philadelphia, PA, USA', ' Mark Juarez imec-COSIC KU Leuven, Leuven, Belgium', ' Gunes Acar imec-COSIC KU Leuven, Leuven, Belgium', ' Rachel Greenstadt Drexel University, Philadelphia, PA, USA', ' Claudia Diaz imec-COSIC KU Leuven, Leuven, Belgium']
-[' Milad Nasr University of Massachusetts Amherst, Amherst, MA, USA', ' Hadi Zolfaghari University of Massachusetts Amherst, Amherst, MA, USA', ' Amir Houmansadr University of Massachusetts Amherst, Amherst, MA, USA']
-[' Milad Nasr University of Massachusetts Amherst, Amherst, MA, USA', ' Amir Houmansadr University of Massachusetts Amherst, Amherst, MA, USA', ' Arya Mazumdar University of Massachusetts Amherst, Amherst, MA, USA']
-[' Riad S. Wahby Stanford University, Palo Alto, CA, USA', ' Ye Ji New York University, New York, NY, USA', ' Andrew J. Blumberg University of Texas at Austin, Austin, TX, USA', ' Abhi Shelat Northeastern University, Boston, MA, USA', ' Justin Thaler Georgetown University, Washington, DC, USA', ' Michael Walfish New York University, New York, NY, USA', ' Thomas Wies New York University, New York, NY, USA']
-[' Scott Ames University of Rochester, Rochester, NY, USA', ' Carmit Hazay Bar-Ilan University, Ramat-Gan, Israel', ' Yuval Ishai Technion and University of California, Los Angeles, Haifa, Israel', ' Muthuramakrishnan Venkitasubramaniam University of Rochester, Rochester, NY, USA']
-[' Elette Boyle IDC, Herzliya, Israel', ' Geoffroy Couteau École Normale Supérieure, CNRS, PSL Research University, INRIA, Paris, France', ' Niv Gilboa Ben Gurion University, Beer-Sheva, Israel', ' Yuval Ishai Technion and UCLA, Haifa, Israel', ' Michele Orrù École Normale Supérieure, CNRS, PSL Research University, INRIA, Paris, France']
-[' Jake Corina University of California, Santa Barbara, Santa Barbara, CA, USA', ' Aravind Machiry University of California, Santa Barbara, Santa Barbara, CA, USA', ' Christopher Salls University of California, Santa Barbara, Santa Barbara, CA, USA', ' Yan Shoshitaishvili Arizona State University, Tempe, AZ, USA', ' Shuang Hao University of Texas at Dallas, Dallas, TX, USA', ' Christopher Kruegel University of California, Santa Barbara, Santa Barbara, CA, USA', ' Giovanni Vigna University of California, Santa Barbara, Santa Barbara, CA, USA']
-[' Wei You Indiana University, Bloomington, Bloomington, IN, USA', ' Peiyuan Zong Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Kai Chen Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' XiaoFeng Wang Indiana University, Bloomington, Bloomington, IN, USA', ' Xiaojing Liao William and Mary, Williamsburg, VA, USA', ' Pan Bian Renmin University of China, Beijing, China', ' Bin Liang Renmin University of China, Beijing, China']
-[' Theofilos Petsios Columbia University, New York, NY, USA', ' Jason Zhao Columbia University, New York, NY, USA', ' Angelos D. Keromytis Columbia University, New York, NY, USA', ' Suman Jana Columbia University, New York, NY, USA']
-[' Ruian Duan Georgia Institute of Technology, Atlanta, GA, USA', ' Ashish Bijlani Georgia Institute of Technology, Atlanta, GA, USA', ' Meng Xu Georgia Institute of Technology, Atlanta, GA, USA', ' Taesoo Kim Georgia Institute of Technology, Atlanta, GA, USA', ' Wenke Lee Georgia Institute of Technology, Atlanta, GA, USA']
-[' Erik Derr Saarland University, Saarbrücken, Germany', ' Sven Bugiel Saarland University, Saarbrücken, Germany', ' Sascha Fahl Leibniz University, Hannover, Hannover, Germany', ' Yasemin Acar Leibniz University, Hannover, Hannover, Germany', ' Michael Backes Saarland University, Saarbrücken, Germany']
-[' Frank Li University of California, Berkeley, Berkeley, CA, USA', ' Vern Paxson University of California, Berkeley, Berkeley, CA, USA']
-[' Shijie Jia Chinese Academy of Sciences, Beijing, China', ' Luning Xia Chinese Academy of Sciences, Beijing, China', ' Bo Chen Michigan Technological University, Houghton, MI, USA', ' Peng Liu Pennsylvania State University, State College, PA, USA']
-[' Jian Huang Georgia Institute of Technology, Atlanta, GA, USA', ' Jun Xu Pennsylvania State University, University Park, PA, USA', ' Xinyu Xing Pennsylvania State University, University Park, PA, USA', ' Peng Liu Pennsylvania State University, University Park, PA, USA', ' Moinuddin K. Qureshi Georgia Institute of Technology, Atlanta, GA, USA']
-[' Grant Hernandez University of Florida, Gainesville, FL, USA', ' Farhaan Fowze University of Florida, Gainesville, FL, USA', ' Dave (Jing) Tian University of Florida, Gainesville, FL, USA', ' Tuba Yavuz University of Florida, Gainesville, FL, USA', ' Kevin R.B. Butler University of Florida, Gainesville, FL, USA']
-[' Nico Döttling Friedrich-Alexander-University Erlangen-Nürnberg, Nürnberg, Germany', ' Satrajit Ghosh Aarhus University, Aarhus, Denmark', ' Jesper Buus Nielsen Aarhus University, Aarhus, Denmark', ' Tobias Nilges Aarhus University, Aarhus, Denmark', ' Roberto Trifiletti Aarhus University, Aarhus, Denmark']
-[' Shweta Agrawal IIT Madras, Chennai, India', ' Sanjay Bhattacherjee Indian Statistical Institute, Kolkata, India', ' Duong Hieu Phan XLIM (U. Limoges, CNRS), Limoges, France', ' Damien Stehlé ENS de Lyon, LIP (U. Lyon, CNRS, ENSL, INRIA, UCBL), Lyon, France', ' Shota Yamada National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan']
-[' Ellis Fenske Tulane University, New Orleans, LA, USA', ' Akshaya Mani Georgetown University, Washington, DC, USA', ' Aaron Johnson U.S. Naval Research Laboratory, Washington, DC, USA', ' Micah Sherr Georgetown University, Washington, DC, USA']
-[' Wen Xu Georgia Institute of Technology, Atlanta, GA, USA', ' Sanidhya Kashyap Georgia Institute of Technology, Atlanta, GA, USA', ' Changwoo Min Virginia Tech, Blacksburg, VA, USA', ' Taesoo Kim Georgia Institute of Technology, Atlanta, GA, USA']
-[' Marcel Böhme National University of Singapore, Singapore, Singapore', ' Van-Thuan Pham National University of Singapore, Singapore, Singapore', ' Manh-Dung Nguyen National University of Singapore, Singapore, Singapore', ' Abhik Roychoudhury National University of Singapore, Singapore, Singapore']
-[' HyungSeok Han Korea Advanced Institute of Science and Technology, Daejeon, South Korea', ' Sang Kil Cha Korea Advanced Institute of Science and Technology, Daejeon, South Korea']
-[' Shen Liu Pennsylvania State University, University Park, PA, USA', ' Gang Tan Pennsylvania State University, University Park, PA, USA', ' Trent Jaeger Pennsylvania State University, University Park, PA, USA']
-[' Yuseok Jeon Purdue University, West Lafayette, IN, USA', ' Priyam Biswas Purdue University, West Lafayette, IN, USA', ' Scott Carr Purdue University, West Lafayette, IN, USA', ' Byoungyoung Lee Purdue University, West Lafayette, IN, USA', ' Mathias Payer Purdue University, West lafayette, IN, USA']
-[' Sam Silvestro University of Texas at San Antonio, San Antonio, TX, USA', ' Hongyu Liu University of Texas at San Antonio, San Antonio, TX, USA', ' Corey Crosser United States Military Academy, West Point, NY, USA', ' Zhiqiang Lin University of Texas at Dallas, Richardson, TX, USA', ' Tongping Liu University of Texas at San Antonio, San Antonio, TX, USA']
-[' Tommaso Frassetto Technische Universität Darmstadt, Darmstadt, Germany', ' David Gens Technische Universität Darmstadt, Darmstadt, Germany', ' Christopher Liebchen Technische Universität Darmstadt, Darmstadt, Germany', ' Ahmad-Reza Sadeghi Technische Universität Darmstadt, Darmstadt, Germany']
-[' Wenhao Wang Institute of Information Engineering, Chinese Academy of Sciences & Indiana University, Bloomington, Beijing, China', ' Guoxing Chen Ohio State University, Columbus, OH, USA', ' Xiaorui Pan Indiana University, Bloomington, Bloomington, IN, USA', ' Yinqian Zhang Ohio State University, Columbus, OH, USA', ' XiaoFeng Wang Indiana University, Bloomington, Bloomington, IN, USA', ' Vincent Bindschaedler University of Illinois at Urbana-Champaign, Urbana and Champaign, IL, USA', ' Haixu Tang Indiana University, Bloomington, Bloomington, IN, USA', ' Carl A. Gunter University of Illinois at Urbana-Champaign, Urbana and Champaign, IL, USA']
-[' Pramod Subramanyan University of California, Berkeley, Berkeley, CA, USA', ' Rohit Sinha University of California, Berkeley, Berkeley, CA, USA', ' Ilia Lebedev Massachusetts Institute of Technology, Cambridge, MA, USA', ' Srinivas Devadas Massachusetts Institute of Technology, Cambridge, MA, USA', ' Sanjit A. Seshia University of California, Berkeley, Berkeley, CA, USA']
-[' Jared M. Smith Oak Ridge National Laboratory & University of Tennessee, Oak Ridge, TN, USA', ' Elliot Greenlee Oak Ridge National Laboratory & University of Tennessee, Oak Ridge, TN, USA', ' Aaron Ferber Oak Ridge National Laboratory, Oak Ridge, TN, USA']
-[' Muhammad Ejaz Ahmed Sungkyunkwan University, Suwon, Republic of Korea', ' Hyoungshick Kim Sungkyunkwan University, Suwon, Republic of Korea']
-[' Zixi Cai Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Zigang Cao Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Gang Xiong Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Zhen Li Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Wei Xia Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China']
-[' Shaosheng Cao Ant Financial Services Group, Hangzhou, China', ' XinXing Yang Ant Financial Services Group, Beijing, China', ' Jun Zhou Ant Financial Services Group, Beijing, China', ' Xiaolong Li Ant Financial Services Group, Seattle, USA', ' Yuan (Alan) Qi Ant Financial Services Group, Hangzhou, China', ' Kai Xiao Ant Financial Services Group, Shanghai, China']
-[' Li Chen Intel Labs, Hillsboro, OR, USA', ' Mingwei Zhang Intel Labs, Hillsboro, OR, USA', ' Chih-yuan Yang Intel Labs, Hillsboro, OR, USA', ' Ravi Sahita Intel Labs, Hillsboro, OR, USA']
-[' Long Cheng Virginia Tech, Blacksburg, VA, USA', ' Ke Tian Virginia Tech, Blacksburg, VA, USA', ' Danfeng (Daphne) Yao Virginia Tech, Blacksburg, VA, USA']
-[' Mingxin Cui Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Zigang Cao Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Gang Xiong Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China', ' Junzheng Shi Institute of Information Engineering, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, China']
-[' Yu Ding Baidu X-Lab, Sunnyvale, CA, USA', ' Ran Duan Baidu X-Lab, Sunnyvale, CA, USA', ' Long Li Baidu X-Lab, Sunnyvale, CA, USA', ' Yueqiang Cheng Baidu X-Lab, Sunnyvale, CA, USA', ' Yulong Zhang Baidu X-Lab, Sunnyvale, CA, USA', ' Tanghui Chen Baidu X-Lab, Sunnyvale, CA, USA', ' Tao Wei Baidu X-Lab, Sunnyvale, CA, USA', ' Huibo Wang University of Texas -- Dallas, Richardson, TX, USA']
-[' Lucas Freire UFRGS, Porto Alegre, Brazil', ' Miguel Neves UFRGS, Porto Alegre, Brazil', ' Alberto Schaeffer-Filho UFRGS, Porto Alegre, Brazil', ' Marinho Barcellos UFRGS, Porto Alegre, Brazil']
-[" Jun-Won Ho Seoul Women's University, Seoul, South Korea", " KyungRok Won Seoul Women's University, Seoul, South Korea", " Jee Sun Kim Seoul Women's University, Seoul, South Korea"]
-[' Jordan Holland University of Tennessee, Knoxville, TN, USA', ' Max Schuchard University of Tennessee, Knoxville, TN, USA']
-[' Diptendu Mohan Kar Colorado State University, Fort Collins, CO, USA', ' Ibrahim Lazrig Colorado State University, Fort Collins, CO, USA', ' Indrajit Ray Colorado State University, Fort Collins, CO, USA', ' Indrakshi Ray Colorado State University, Fort Collins, CO, USA']
-[' Rody Kersten Carnegie Mellon University Silicon Valley, Moffett Field, CA, USA', ' Kasper Luckow Carnegie Mellon University Silicon Valley, Moffett Field, CA, USA', ' Corina S. Păsăreanu Carnegie Mellon University Silicon Valley & NASA Ames Research Center, Moffett Field, CA, USA']
-[' Seungyeon Kim Yonsei University, Seoul, South Korea', ' Hoyeon Lee Yonsei University, Seoul, South Korea', ' Taekyoung Kwon Yonsei University, Seoul, South Korea']
-[' Amit Klein Fraunhofer Institute for Secure Information Technology, Jerusalem, Israel', ' Vladimir Kravtsov Fraunhofer Institute for Secure Information Technology & Hebrew University of Jerusalem, Jerusalem, Israel', ' Alon Perlmuter Fraunhofer Institute for Secure Information Technology & Hebrew University of Jerusalem, Jerusalem, Israel', ' Haya Shulman Fraunhofer Institute for Secure Information Technology & Hebrew University of Jerusalem, Darmstadt, Germany', ' Michael Waidner Fraunhofer Institute for Secure Information Technology & Hebrew University of Jerusalem, Darmstadt, Germany']
-[' Anne Kohlbrenner Carnegie Mellon University, Pittsburgh, PA, USA', ' Frederico Araujo IBM T.J. Watson Research Center, Yorktown Heights, NY, USA', ' Teryl Taylor IBM T.J. Watson Research Center, Yorktown Heights, NY, USA', ' Marc Ph. Stoecklin IBM T.J. Watson Research Center, Yorktown Heights, NY, USA']
-[' Youngjoo Lee Yonsei University, Seoul, South Korea', ' WonSeok Yang Yonsei University, Seoul, South Korea', ' Taekyoung Kwon Yonsei University, Seoul, South Korea']
-[' Huaxin Li Intel Labs, Hillsboro, OR, USA', ' Li Zhao Intel Labs, Hillsboro, OR, USA', ' Marcio Juliato Intel Labs, Hillsboro, OR, USA', ' Shabbir Ahmed Intel Labs, Hillsboro, OR, USA', ' Manoj R. Sastry Intel Labs, Hillsboro, OR, USA', ' Lily L. Yang Intel Labs, Hillsboro, OR, USA']
-[' Longfei Li Ant Financial Services Group, HangZhou, China', ' Jun Zhou Ant Financial Services Group, HangZhou, China', ' Xiaolong Li Ant Financial Services Group, HangZhou, China', ' Tao Chen Ant Financial Services Group, HangZhou, China']
-[' Guanjun Lin Deakin University, Geelong, Australia', ' Jun Zhang Deakin University, Geelong, Australia', ' Wei Luo Deakin University, Geelong, Australia', ' Lei Pan Deakin University, Geelong, Australia', ' Yang Xiang Swinburne University of Technology, Melbourne, Australia']
-[' Ziqi Liu Ant Financial Services Group, Hangzhou, China', ' Chaochao Chen Ant Financial Services Group, Hangzhou, China', ' Jun Zhou Ant Financial Services Group, Hangzhou, China', ' Xiaolong Li Ant Financial Services Group, Hangzhou, China', ' Feng Xu Ant Financial Services Group, Hangzhou, China', ' Tao Chen Ant Financial Services Group, Hangzhou, China', ' Le Song Ant Financial Services Group & Georgia Institute of Technology, Hangzhou, China']
-[' Pei-Hsuan Lu National Chung Hsing University, Hsinchu City, Taiwan Roc', ' Chia-Mu Yu National Chung Hsing University, Taichung City, Taiwan Roc']
-[' Seita Maruyama Waseda University, Shinjuku-ku, Tokyo, Japan', ' Satohiro Wakabayashi Waseda University, Shinjuku-ku, Tokyo, Japan', ' Tatsuya Mori Waseda University, Shinjuku-ku, Tokyo, Japan']
-[' Rahat Masood University of New South Wales (UNSW) & CSIRO Data61, Sydney, Australia', ' Benjamin Zi Hao Zhao CSIRO Data61, Sydney, Australia', ' Hassan Jameel Asghar CSIRO Data61, Sydney, Australia', ' Moahmed Ali Kaafar CSIRO Data61, Sydney, Australia']
-[' Subhojeet Mukherjee Colorado State University, Fort Collins, CO, USA', ' Noah Cain Colorado State University, Fort Collins, CO, USA', ' Jacob Walker Colorado State University, Fort Collins, CO, USA', ' David White Colorado State University, Fort Collins, CO, USA', ' Indrajit Ray Colorado State University, Fort Collins, CO, USA', ' Indrakshi Ray Colorado State University, Fort Collins, CO, USA']
-[' Ahmet Okutan Rochester Institute of Technology, Rochester, NY, USA', ' Gordon Werner Rochester Institute of Technology, Rochester, NY, USA', ' Katie McConky Rochester Institute of Technology, Rochester, NY, USA', ' Shanchieh Jay Yang Rochester Institute of Technology, Rochester, NY, USA']
-[' Hernan M. Palombo University of South Florida, Tampa, FL, USA', ' Hao Zheng University of South Florida, Tampa, FL, USA', ' Jay Ligatti University of South Florida, Tampa, FL, USA']
-[' Jonghyeon Park Chungnam National University, Daejeon, Republic of Korea', ' Youngseok Lee Chungnam National University, Daejeon, Republic of Korea']
-[' Thomas Shaw University of Tulsa, Tulsa, OK, USA', ' James Arrowood Haystack Security LLC, Tulsa, OK, USA', ' Michael Kvasnicka University of Tulsa, Tulsa, OK, USA', ' Shay Taylor University of Tulsa, Tulsa, OK, USA', ' Kyle Cook University of Tulsa, Tulsa, OK, USA', ' John Hale University of Tulsa, Tulsa, OK, USA']
-[' Abhishek Singh University of Oslo, Oslo, Norway']
-[' Liwei Song Princeton University, Princeton, NJ, USA', ' Prateek Mittal Princeton University, Princeton, NJ, USA']
-[' Satohiro Wakabayashi Waseda University, Shinjuku, Tokyo, Japan', ' Seita Maruyama Waseda University, Shinjuku, Tokyo, Japan', ' Tatsuya Mori Waseda University, Shinjuku, Tokyo, Japan', ' Shigeki Goto Waseda University, Shinjuku, Tokyo, Japan', ' Masahiro Kinugawa National Institute of Technology, Sendai College, Sendai, Miyagi, Japan', ' Yu-ichi Hayashi Nara Institute of Science and Technology, Ikoma, Nara, Japan']
-[' Qianqian Xing National University of Defense Technology, Changsha, China', ' Baosheng Wang National University of Defense Technology, Changsha, China', ' Xiaofeng Wang National University of Defense Technology, Changsha, China']
-[' Jeff Yan Linköping University, Linköping , Sweden', ' Aurélien Bourquard Massachusetts Institute of Technology, Boston, MA, USA']
-[' Ya-Lin Zhang Nanjing University & Ant Financial Services Group, Nanjing, China', ' Longfei Li Ant Financial Services Group, Hangzhou, China', ' Jun Zhou Ant Financial Services Group, Hangzhou, China', ' Xiaolong Li Ant Financial Services Group, Hangzhou, China', ' Yujiang Liu Ant Financial Services Group, Hangzhou, China', ' Yuanchao Zhang Ant Financial Services Group, Hangzhou, China', ' Zhi-Hua Zhou Nanjing University, Nanjing, China']
-[' Leila Bahri Royal Institute of Technology - KTH, Stockholm, Sweden']
-[" Nataliia Bielova Université Côte d'Azur, Inria, Sophia Antipolis, France"]
-[' Ryan Henry Indiana University, Bloomington, IN, USA']
-[' Taesoo Kim Georgia Tech, Atlanta, GA, USA', ' Zhiqiang Lin University of Texas at Dallas, Dallas, TX, USA', ' Chia-che Tsai Stony Brook University & University of California, Berkeley, Stony Brook , NY, USA']
+Vladimir Kolesnikov, Jesper Buus, Mike Rosulek, Ni Trieu, Roberto Trifiletti
+Xiao Wang, Samuel Ranellucci, Jonathan Katz
+Xiao Wang, Samuel Ranellucci, Jonathan Katz
+Linghan Zhang, Sheng Tan, Jie Yang
+Jian Liu, Chen Wang, Yingying Chen, Nitesh Saxena
+Zhangkai Zhang, Xuhua Ding, Gene Tsudik, Jinhua Cui, Zhoujun Li
+Guoming Zhang, Chen Yan, Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, Wenyuan Xu
+Hung Dang, Yue Huang, Ee-Chien Chang
+Dongyu Meng, Hao Chen
+Meng Luo, Oleksii Starov, Nima Honarmand, Nick Nikiforakis
+Yinzhi Cao, Zhanhao Chen, Song Li, Shujiang Wu
+Peter Snyder, Cynthia Taylor, Chris Kanich
+Yujin Kwon, Dohyun Kim, Yunmok Son, Eugene Vasserman, Yongdae Kim
+Changyu Dong, Yilei Wang, Amjad Aldweesh, Patrick McCorry, Aad van
+Matteo Campanelli, Rosario Gennaro, Steven Goldfeder, Luca Nizzardo
+Ruiyu Zhu, Yan Huang, Darion Cassel
+Yehuda Lindell, Ariel Nof
+Nishanth Chandran, Juan A., Payman Mohassel, Satyanarayana Vusirikala
+Sarah Pearman, Jeremy Thomas, Pardis Emami, Hana Habib, Lujo Bauer, Nicolas Christin, Lorrie Faith, Serge Egelman, Alain Forget
+Alena Naiakshina, Anastasia Danilova, Christian Tiefenau, Marco Herzog, Sergej Dechand, Matthew Smith
+Rahul Chatterjee, Joanne Woodage, Yuval Pnueli, Anusha Chowdhury, Thomas Ristenpart
+Yan Shoshitaishvili, Michael Weissbacher, Lukas Dresel, Christopher Salls, Ruoyu Wang, Christopher Kruegel, Giovanni Vigna
+Xiaojun Xu, Chang Liu, Qian Feng, Heng Yin, Le Song, Dawn Song
+Yang Ji, Sangho Lee, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro Orso, Wenke Lee
+Martin Kučera, Petar Tsankov, Timon Gehr, Marco Guarnieri, Martin Vechev
+Véronique Cortier, Niklas Grimm, Joseph Lallemand, Matteo Maffei
+Zhan Qin, Ting Yu, Yin Yang, Issa Khalil, Xiaokui Xiao, Kui Ren
+Rami Khalil, Arthur Gervais
+Giulio Malavolta, Pedro Moreno-Sanchez, Aniket Kate, Matteo Maffei, Srivatsan Ravi
+Matthew Green, Ian Miers
+Thang Hoang, Ceyhun D., Attila A., Jorge Guajardo, Tam Nguyen
+Daniel S., Adam Aviv, Seung Geol, Travis Mayberry
+Jack Doerner, Abhi Shelat
+Daiping Liu, Zhou Li, Kun Du, Haining Wang, Baojun Liu, Haixin Duan
+Samaneh Tajalizadehkhoob, Tom Van, Maciej Korczyński, Arman Noroozian, Rainer Böhme, Tyler Moore, Wouter Joosen, Michel van
+Panagiotis Kintis, Najmeh Miramirkhani, Charles Lever, Yizheng Chen, Rosa Romero-Gómez, Nikolaos Pitropakis, Nick Nikiforakis, Manos Antonakakis
+Congzheng Song, Thomas Ristenpart, Vitaly Shmatikov
+Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz
+Jian Liu, Mika Juuti, Yao Lu, N. Asokan
+Bernd Finkbeiner, Christian Müller, Helmut Seidl, Eugen Zălinescu
+Miguel Ambrona, Gilles Barthe, Romain Gay, Hoeteck Wee
+Shashank Agrawal, Melissa Chase
+Jan Camenisch, Manu Drijvers, Maria Dubovitskaya
+Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
+Arka Rai, Matthew Green, Abhishek Jain, Gabriel Kaptchuk, Ian Miers
+Brent Carmer, Alex J., Mariana Raykova
+Ben Fisch, Dhinakaran Vinayagamurthy, Dan Boneh, Sergey Gorbunov
+Shai Halevi, Tzipora Halevi, Victor Shoup, Noah Stephens-Davidowitz
+Chaoshun Zuo, Qingchuan Zhao, Zhiqiang Lin
+Yi Chen, Wei You, Yeonjoon Lee, Kai Chen, XiaoFeng Wang, Wei Zou
+Tongxin Li, Xueqiang Wang, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, Xinhui Han
+Daniel Genkin, Luke Valenta, Yuval Yarom
+Yuan Xiao, Mengyuan Li, Sanchuan Chen, Yinqian Zhang
+Jia Chen, Yu Feng, Isil Dillig
+Mihir Bellare, Joseph Jaeger, Julia Len
+Alexander Russell, Qiang Tang, Moti Yung, Hong-Sheng Zhou
+Mihir Bellare, Wei Dai
+Qi Alfred, Matthew Thomas, Eric Osterweil, Yulong Cao, Jie You, Z. Morley
+Thomas Vissers, Timothy Barron, Tom Van, Wouter Joosen, Nick Nikiforakis
+Zain Shamsi, Daren B.H., Dmitri Loguinov
+Dmitry Kogan, Nathan Manohar, Dan Boneh
+Joel Alwen, Jeremiah Blocki, Ben Harsha
+Shay Gueron, Yehuda Lindell
+Jie Huang, Oliver Schranz, Sven Bugiel, Michael Backes
+Lingguang Lei, Yi He, Kun Sun, Jiwu Jing, Yuewu Wang, Qi Li, Jian Weng
+Duc Cuong, Dominik Wermke, Yasemin Acar, Michael Backes, Charles Weir, Sascha Fahl
+Mohammad A., Shaolei Ren, Adam Wierman
+Yi Han, Sriharsha Etigowni, Hua Liu, Saman Zonouz, Athina Petropulu
+Kyong-Tak Cho, Kang G.
+Yizheng Chen, Yacin Nadji, Athanasios Kountouras, Fabian Monrose, Roberto Perdisci, Manos Antonakakis, Nikolaos Vasiloglou
+Yuanshun Yao, Bimal Viswanath, Jenna Cryan, Haitao Zheng, Ben Y.
+Shirin Nilizadeh, Francois Labrèche, Alireza Sedighian, Ali Zand, José Fernandez, Christopher Kruegel, Gianluca Stringhini, Giovanni Vigna
+Keith Bonawitz, Vladimir Ivanov, Ben Kreuter, Antonio Marcedone, H. Brendan, Sarvar Patel, Daniel Ramage, Aaron Segal, Karn Seth
+Anupam Datta, Matthew Fredrikson, Gihyuk Ko, Piotr Mardziel, Shayak Sen
+Fahad Shaon, Murat Kantarcioglu, Zhiqiang Lin, Latifur Khan
+Peter Rindal, Mike Rosulek
+Hao Chen, Kim Laine, Peter Rindal
+Vladimir Kolesnikov, Naor Matania, Benny Pinkas, Mike Rosulek, Ni Trieu
+Hossein Siadati, Nasir Memon
+Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar
+Leyla Bilge, Yufei Han, Matteo Dell'Amico
+Mathy Vanhoef, Frank Piessens
+Maliheh Shirvanian, Nitesh Saxena
+Yong Li, Sven Schäge
+Syed Mahbub, Ryan Henry
+Yan Chen, Ashwin Machanavajjhala, Michael Hay, Gerome Miklau
+Xi He, Ashwin Machanavajjhala, Cheryl Flynn, Divesh Srivastava
+Mustafa Emre, Emily Stark, Adrienne Porter, Sascha Fahl, Radhika Bhargava, Bhanu Dev, Matt Braithwaite, Ryan Sleevi, Parisa Tabriz
+Kurt Thomas, Frank Li, Ali Zand, Jacob Barrett, Juri Ranieri, Luca Invernizzi, Yarik Markov, Oxana Comanescu, Vijay Eranti, Angelika Moscicki, Daniel Margolis, Vern Paxson, Elie Bursztein
+Doowon Kim, Bum Jun, Tudor Dumitraş
+Kee Sung, Minkyu Kim, Dongsoo Lee, Je Hong, Woo-Hwan Kim
+Raphaël Bost, Brice Minaud, Olga Ohrimenko
+Alexander Gamero-Garrido, Stefan Savage, Kirill Levchenko, Alex C.
+Mihir Bellare, Viet Tung
+Animesh Chhotaray, Adib Nahiyan, Thomas Shrimpton, Domenic Forte, Mark Tehranipoor
+Gottfried Herold, Max Hoffmann, Michael Klooß, Carla Ràfols, Andy Rupp
+Rafaël del, Vadim Lyubashevsky, Gregory Neven, Gregor Seiler
+Vasilios Mavroudis, Andrea Cerulli, Petr Svenda, Dan Cvrcek, Dusan Klinec, George Danezis
+Muhammad Yasin, Abhrajit Sengupta, Mohammed Thari, Mohammed Ashraf, Jeyavijayan (JV), Ozgur Sinanoglu
+Matus Nemec, Marek Sys, Petr Svenda, Dusan Klinec, Vashek Matyas
+Sebastian Berndt, Maciej Liśkiewicz
+Shahin Tajik, Heiko Lohrke, Jean-Pierre Seifert, Christian Boit
+Victor van, Dennis Andriesse, Manolis Stamatogiannakis, Xi Chen, Herbert Bos, Cristiano Giuffrdia
+David Korczynski, Heng Yin
+Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A., Martin Johns
+Huasong Shan, Qingyang Wang, Calton Pu
+Ada Lerner, Tadayoshi Kohno, Franziska Roesner
+Giancarlo Pellegrino, Martin Johns, Simon Koch, Michael Backes, Christian Rossow
+Cas Cremers, Marko Horvat, Jonathan Hoyland, Sam Scott, Thyla van
+Jean-Karim Zinzindohoué, Karthikeyan Bhargavan, Jonathan Protzenko, Benjamin Beurdouche
+José Bacelar, Manuel Barbosa, Gilles Barthe, Arthur Blot, Benjamin Grégoire, Vincent Laporte, Tiago Oliveira, Hugo Pacheco, Benedikt Schmidt, Pierre-Yves Strub
+Melissa Chase, David Derler, Steven Goldfeder, Claudio Orlandi, Sebastian Ramacher, Christian Rechberger, Daniel Slamanig, Greg Zaverucha
+Peter Pessl, Leon Groot, Yuval Yarom
+Thomas Espitau, Pierre-Alain Fouque, Benoît Gérard, Mehdi Tibouchi
+Ethan Cecchetti, Andrew C., Owen Arden
+Lucas Waye, Pablo Buiras, Owen Arden, Alejandro Russo, Stephen Chong
+Wenhao Wang, Xiaoyang Xu, Kevin W.
+Gunnar Hartung, Max Hoffmann, Matthias Nagel, Andy Rupp
+Michael Backes, Mathias Humbert, Jun Pang, Yang Zhang
+Simon Oya, Carmela Troncoso, Fernando Pérez-González
+Ming-Hsien Tsai, Bow-Yaw Wang, Bo-Yin Yang
+José Bacelar, Manuel Barbosa, Gilles Barthe, François Dupressoir, Benjamin Grégoire, Vincent Laporte, Vitor Pereira
+Katherine Q., Matthew Green, Naphat Sanguansin, Lennart Beringer, Adam Petcher, Andrew W.
+Rebekah Overdorf, Mark Juarez, Gunes Acar, Rachel Greenstadt, Claudia Diaz
+Milad Nasr, Hadi Zolfaghari, Amir Houmansadr
+Milad Nasr, Amir Houmansadr, Arya Mazumdar
+Riad S., Ye Ji, Andrew J., Abhi Shelat, Justin Thaler, Michael Walfish, Thomas Wies
+Scott Ames, Carmit Hazay, Yuval Ishai, Muthuramakrishnan Venkitasubramaniam
+Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai, Michele Orrù
+Jake Corina, Aravind Machiry, Christopher Salls, Yan Shoshitaishvili, Shuang Hao, Christopher Kruegel, Giovanni Vigna
+Wei You, Peiyuan Zong, Kai Chen, XiaoFeng Wang, Xiaojing Liao, Pan Bian, Bin Liang
+Theofilos Petsios, Jason Zhao, Angelos D., Suman Jana
+Ruian Duan, Ashish Bijlani, Meng Xu, Taesoo Kim, Wenke Lee
+Erik Derr, Sven Bugiel, Sascha Fahl, Yasemin Acar, Michael Backes
+Frank Li, Vern Paxson
+Shijie Jia, Luning Xia, Bo Chen, Peng Liu
+Jian Huang, Jun Xu, Xinyu Xing, Peng Liu, Moinuddin K.
+Grant Hernandez, Farhaan Fowze, Dave (Jing), Tuba Yavuz, Kevin R.B.
+Nico Döttling, Satrajit Ghosh, Jesper Buus, Tobias Nilges, Roberto Trifiletti
+Shweta Agrawal, Sanjay Bhattacherjee, Duong Hieu, Damien Stehlé, Shota Yamada
+Ellis Fenske, Akshaya Mani, Aaron Johnson, Micah Sherr
+Wen Xu, Sanidhya Kashyap, Changwoo Min, Taesoo Kim
+Marcel Böhme, Van-Thuan Pham, Manh-Dung Nguyen, Abhik Roychoudhury
+HyungSeok Han, Sang Kil
+Shen Liu, Gang Tan, Trent Jaeger
+Yuseok Jeon, Priyam Biswas, Scott Carr, Byoungyoung Lee, Mathias Payer
+Sam Silvestro, Hongyu Liu, Corey Crosser, Zhiqiang Lin, Tongping Liu
+Tommaso Frassetto, David Gens, Christopher Liebchen, Ahmad-Reza Sadeghi
+Wenhao Wang, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A.
+Pramod Subramanyan, Rohit Sinha, Ilia Lebedev, Srinivas Devadas, Sanjit A.
+Jared M., Elliot Greenlee, Aaron Ferber
+Muhammad Ejaz, Hyoungshick Kim
+Zixi Cai, Zigang Cao, Gang Xiong, Zhen Li, Wei Xia
+Shaosheng Cao, XinXing Yang, Jun Zhou, Xiaolong Li, Yuan (Alan), Kai Xiao
+Li Chen, Mingwei Zhang, Chih-yuan Yang, Ravi Sahita
+Long Cheng, Ke Tian, Danfeng (Daphne)
+Mingxin Cui, Zigang Cao, Gang Xiong, Junzheng Shi
+Yu Ding, Ran Duan, Long Li, Yueqiang Cheng, Yulong Zhang, Tanghui Chen, Tao Wei, Huibo Wang
+Lucas Freire, Miguel Neves, Alberto Schaeffer-Filho, Marinho Barcellos
+Jun-Won Ho, KyungRok Won, Jee Sun
+Jordan Holland, Max Schuchard
+Diptendu Mohan, Ibrahim Lazrig, Indrajit Ray, Indrakshi Ray
+Rody Kersten, Kasper Luckow, Corina S.
+Seungyeon Kim, Hoyeon Lee, Taekyoung Kwon
+Amit Klein, Vladimir Kravtsov, Alon Perlmuter, Haya Shulman, Michael Waidner
+Anne Kohlbrenner, Frederico Araujo, Teryl Taylor, Marc Ph.
+Youngjoo Lee, WonSeok Yang, Taekyoung Kwon
+Huaxin Li, Li Zhao, Marcio Juliato, Shabbir Ahmed, Manoj R., Lily L.
+Longfei Li, Jun Zhou, Xiaolong Li, Tao Chen
+Guanjun Lin, Jun Zhang, Wei Luo, Lei Pan, Yang Xiang
+Ziqi Liu, Chaochao Chen, Jun Zhou, Xiaolong Li, Feng Xu, Tao Chen, Le Song
+Pei-Hsuan Lu, Chia-Mu Yu
+Seita Maruyama, Satohiro Wakabayashi, Tatsuya Mori
+Rahat Masood, Benjamin Zi, Hassan Jameel, Moahmed Ali
+Subhojeet Mukherjee, Noah Cain, Jacob Walker, David White, Indrajit Ray, Indrakshi Ray
+Ahmet Okutan, Gordon Werner, Katie McConky, Shanchieh Jay
+Hernan M., Hao Zheng, Jay Ligatti
+Jonghyeon Park, Youngseok Lee
+Thomas Shaw, James Arrowood, Michael Kvasnicka, Shay Taylor, Kyle Cook, John Hale
+Abhishek Singh
+Liwei Song, Prateek Mittal
+Satohiro Wakabayashi, Seita Maruyama, Tatsuya Mori, Shigeki Goto, Masahiro Kinugawa, Yu-ichi Hayashi
+Qianqian Xing, Baosheng Wang, Xiaofeng Wang
+Jeff Yan, Aurélien Bourquard
+Ya-Lin Zhang, Longfei Li, Jun Zhou, Xiaolong Li, Yujiang Liu, Yuanchao Zhang, Zhi-Hua Zhou
+Nataliia Bielova
+Taesoo Kim, Zhiqiang Lin, Chia-che Tsai

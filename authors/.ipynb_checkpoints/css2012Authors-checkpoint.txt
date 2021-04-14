@@ -1,0 +1,98 @@
+Raoul Strackx, Frank Piessens
+Yu-Yuan Chen, Pramod A., Ruby B.
+Hyungon Moon, Hojoon Lee, Jihoon Lee, Kihwan Kim, Yunheung Paek, Brent Byunghoon
+Martin Georgiev, Subodh Iyengar, Suman Jana, Rishita Anubhai, Dan Boneh, Vitaly Shmatikov
+Sascha Fahl, Marian Harbach, Thomas Muders, Lars Baumgärtner, Bernd Freisleben, Matthew Smith
+Nikos Mavrogiannopoulos, Frederik Vercauteren, Vesselin Velichkov, Bart Preneel
+Mashael AlSabah, Kevin Bauer, Ian Goldberg
+Max Schuchard, John Geddes, Christopher Thompson, Nicholas Hopper
+Hooman Mohajeri, Baiyu Li, Mohammad Derakhshani, Ian Goldberg
+Zachary Weinberg, Jeffrey Wang, Vinod Yegneswaran, Linda Briesemeister, Steven Cheung, Frank Wang, Dan Boneh
+Qiyan Wang, Xun Gong, Giang T.K., Amir Houmansadr, Nikita Borisov
+Dimitris Geneiatakis, Georgios Portokalidis, Vasileios P., Angelos D.
+Divya Muthukumaran, Trent Jaeger, Vinod Ganapathy
+Richard Wartell, Vishwath Mohan, Kevin W., Zhiqiang Lin
+Joan Calvet, José M., Jean-Yves Marion
+Nigel Edwards, Liqun Chen
+Chunyi Peng, Chi-yu Li, Guan-Hua Tu, Songwu Lu, Lixia Zhang
+Myrto Arapinis, Loretta Mancini, Eike Ritter, Mark Ryan, Nico Golde, Kevin Redon, Ravishankar Borgaonkar
+Kathy Wain, Yi Fan, Zhen Huang, David Lie
+Long Lu, Zhichun Li, Zhenyu Wu, Wenke Lee, Guofei Jiang
+Hao Peng, Chris Gates, Bhaskar Sarma, Ninghui Li, Yuan Qi, Rahul Potharaju, Cristina Nita-Rotaru, Ian Molloy
+Shakeel Butt, H. Andrés, Abhinav Srivastava, Vinod Ganapathy
+Marten van, Ari Juels, Alina Oprea, Ronald L., Emil Stefanov, Nikos Triandopoulos
+Venkatanathan Varadarajan, Thawan Kooburat, Benjamin Farley, Thomas Ristenpart, Michael M.
+Peter Williams, Radu Sion
+Yinqian Zhang, Ari Juels, Michael K., Thomas Ristenpart
+Muhammad Asim, Jihyung Lee, Sangwoo Moon, Insu Yun, Deokjin Kim, Sungryoul Lee, Yung Yi, KyoungSoo Park
+Chi-Yao Hong, Fang Yu, Yinglian Xie
+Antonio Bianchi, Yan Shoshitaishvili, Christopher Kruegel, Giovanni Vigna
+Yinglian Xie, Fang Yu, Qifa Ke, Martin Abadi, Eliot Gillum, Krish Vitaldevaria, Jason Walter, Junxian Huang, Zhuoqing Morley
+Cristian Bravo-Lillo, Lorrie Cranor, Julie Downs, Saranga Komanduri, Stuart Schechter, Manya Sleeper
+San-Tsai Sun, Konstantin Beznosov
+Tiffany Hyun-Jin, Payas Gupta, Jun Han, Emmanuel Owusu, Jason Hong, Adrian Perrig, Debin Gao
+Alexei Czeskis, Michael Dietz, Tadayoshi Kohno, Dan Wallach, Dirk Balfanz
+Weining Yang, Ninghui Li, Yuan Qi, Wahbeh Qardaji, Stephen McLaughlin, Patrick McDaniel
+Wei-Hong Chuang, Ravi Garg, Min Wu
+Stephen McLaughlin, Patrick McDaniel
+Tyler Nighswander, Brent Ledvina, Jonathan Diamond, Robert Brumley, David Brumley
+Ishtiaq Rouf, Hossen Mustafa, Miao Xu, Wenyuan Xu, Rob Miller, Marco Gruteser
+Joseph A., Matthew Green, Susan Hohenberger, Matthew W.
+José Bacelar, Manuel Barbosa, Endre Bangerter, Gilles Barthe, Stephan Krenn, Santiago Zanella
+Dario Fiore, Rosario Gennaro
+S. Dov, Jonathan Katz, Vladimir Kolesnikov, Fernando Krell, Tal Malkin, Mariana Raykova, Yevgeniy Vahlis
+Jan Camenisch, Anna Lysyanskaya, Gregory Neven
+Alexandra Boldyreva, Robert Lychev
+Guanhua Yan, Ritchie Lee, Alex Kent, David Wolpert
+Haifeng Yu, Phillip B., Chenwei Shi
+Zhaoyan Xu, Lingfeng Chen, Guofei Gu, Christopher Kruegel
+Zhiyun Qian, Z. Morley, Yinglian Xie
+Xiang Cai, Xin Cheng, Brijesh Joshi, Rob Johnson
+Reza Shokri, George Theodorakopoulos, Carmela Troncoso, Jean-Pierre Hubaux, Jean-Yves Le
+Mudhakar Srivatsa, Mike Hicks
+Rui Chen, Gergely Acs, Claude Castelluccia
+Michaela Hardt, Suman Nath
+Zhou Li, Kehuan Zhang, Yinglian Xie, Fang Yu, XiaoFeng Wang
+Istemi Ekin, Ruichuan Chen, Michaela Hardt, Paul Francis, Johannes Gehrke
+Michael Backes, Ankit Malik, Dominique Unruh
+Mihhail Aizatulin, Andrew D., Jan Jürjens
+Gilles Barthe, David Pointcheval, Santiago Zanella
+Nick Nikiforakis, Luca Invernizzi, Alexandros Kapravelos, Steven Van, Wouter Joosen, Christopher Kruegel, Frank Piessens, Giovanni Vigna
+Willem De, Dominique Devriese, Nick Nikiforakis, Frank Piessens
+Mario Heiderich, Marcus Niemietz, Felix Schuster, Thorsten Holz, Jörg Schwenk
+Andreas Holzer, Martin Franz, Stefan Katzenbeisser, Helmut Veith
+Mihir Bellare, Viet Tung, Phillip Rogaway
+Seny Kamara, Payman Mohassel, Ben Riva
+Markus Kammerstetter, Christian Platzer, Gilbert Wondracek
+Chris Grier, Lucas Ballard, Juan Caballero, Neha Chachra, Christian J., Kirill Levchenko, Panayiotis Mavrommatis, Damon McCoy, Antonio Nappa, Andreas Pitsillidis, Niels Provos, M. Zubair, Moheeb Abu, Christian Rossow, Kurt Thomas, Vern Paxson, Stefan Savage, Geoffrey M.
+Leyla Bilge, Tudor Dumitraş
+Damon McCoy, Hitesh Dharmdasani, Christian Kreibich, Geoffrey M., Stefan Savage
+Jason Crampton, Gregory Gutin, Anders Yeo
+Kai Engelhardt, Ron van, Chenyi Zhang
+Scott Moore, Aslan Askarov, Stephen Chong
+Mads Dam, Gurvan Le, Andreas Lundblad
+Ghassan O., Elli Androulaki, Srdjan Capkun
+Véronique Cortier, Graham Steel, Cyrille Wiedling
+Man Ho, Apu Kapadia
+David Bernhard, Véronique Cortier, Olivier Pereira, Bogdan Warinschi
+Dominique Schroeder, Heike Schroeder
+Seny Kamara, Charalampos Papamanthou, Tom Roeder
+Peter Williams, Radu Sion, Alin Tomescu
+Marian Harbach, Sascha Fahl, Thomas Muders, Matthew Smith
+Lung-Hao Lee, Yen-Cheng Juan, Kuei-Ching Lee, Wei-Lin Tseng, Hsin-Hsi Chen, Yuen-Hsien Tseng
+Erik Archambault, Craig Shue
+Giovanni Russello, Mauro Conti, Bruno Crispo, Earlence Fernandes, Yury Zhauniarovich
+Abedelaziz Mohaisen, Xinwen Zhang, Max Schuchard, Haiyong Xie, Yongdae Kim
+Eitan Menahem, Gabi Nakibly, Yuval Elovici
+Kenrick Mock, Bogdan Hoanca, Justin Weaver, Mikal Milton
+Giuseppe Petracca, Anna Cinzia, William Horne, Marco Casassa-Mont
+Xian Pan, Zhen Ling, Aniket Pingley, Wei Yu, Nan Zhang, Xinwen Fu
+Aditi Gupta, Sam Kerr, Michael S., Elisa Bertino
+Cui Xiang, Fang Binxing, Liao Peng, Liu Chaoge
+Bilal Shebaro, Salmin Sultana, Shakthidhar Reddy, Elisa Bertino
+Zhaoyu Gao, Haojin Zhu, Yao Liu, Muyuan Li, Zhenfu Cao
+Jiawei Yuan, Lu Shi, Shucheng Yu, Ming Li
+Shumin Guo, Keke Chen
+Chao Yang, Vinod Yegneswaran, Phillip Porras, Guofei Gu
+Zhaoyan Xu, Jialong Zhang, Guofei Gu, Zhiqiang Lin
+Jidong Xiao, Zhang Xu, Hai Huang, Haining Wang

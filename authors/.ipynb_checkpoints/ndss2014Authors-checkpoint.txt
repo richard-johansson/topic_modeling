@@ -1,0 +1,54 @@
+Jing Zhang, Zakir Durumeric, Michael Bailey, Mingyan Liu and Manish Karir
+Amir Houmansadr, Edmund L. Wong, Vitaly Shmatikov
+Younghwan Go, EunYoung Jeong, Jongil Won, Yongdae Kim, Denis Foo Kune, KyoungSoo Park
+Antonio Nappa, Zhaoyan Xu, M. Zubair Rafique, Juan Caballero, Guofei Gu
+Christian Rossow
+Yueqiang Cheng, Zongwei Zhou, Miao Yu, Xuhua Ding, Robert H. Deng
+Stephen McLaughlin, Saman Zonouz, Devin Pohly, Patrick McDaniel
+Jonas Zaddach, Luca Bruno, Aurelien Francillon and Davide Balzarotti
+Dongseok Jang, Zachary Tatlock, Sorin Lerner
+Alireza Saberi, Yangchun Fu, Zhiqiang Lin
+Chia-Chi Lin, Hongyang Li, Xiaoyong Zhou, XiaoFeng Wang
+Sanorita Dey, Nirupam Roy, Wenyuan Xu, Romit Roy Choudhury and Srihari Nelakuditi
+Claudio Marforio, Nikolaos Karapanos, Claudio Soriente, Kari Kostiainen and Srdjan Capkun
+Martin Georgiev, Suman Jana, Vitaly Shmatikov
+Muhammad Naveed, Xiaoyong Zhou, Soteris Demetriou, XiaoFeng Wang, Carl A Gunter
+Qing Zhang, David Y. Wang, Geoffrey M. Voelker
+Giancarlo Pellegrino, Davide Balzarotti
+Arnar Birgisson, Joe Gibbs Politz, Ulfar Erlingsson, Ankur Taly, Michael Vrable and Mark Lentczner
+Fangqi Sun, Liang Xu, Zhendong Su
+Johannes Dahse, Thorsten Holz
+Myrto Arapinis, Loretta Ilaria Mancini, Eike Ritter, Mark Ryan
+Arik Friedman, Izchak Sharfman, Daniel Keren, Assaf Schuster
+Rob Jansen, Florian Tschorsch, Aaron Johnson, Bjorn Scheuermann
+Lukasz Olejnik, Minh-Dung Tran, Claude Castelluccia
+Anupam Das, Joseph Bonneau, Matthew Caesar, Nikita Borisov and XiaoFeng Wang
+Rafael Veras, Christopher Collins, and Julie Thorpe
+Xavier de Carné de Carnavalet and Mohammad Mannan
+Le Guan, Jingqiang Lin, Bo Luo, Jiwu Jing
+Emil Stefanov, Charalampos Papamanthou, Elaine Shi
+Christina Garman, Matthew Green, Ian Miers
+David Cash, Joseph Jaeger, Stanislaw Jarecki, Charanjit Jutla, Hugo Krawczyk, Marcel-Catalin Ros, and Michael Steiner
+Kasper B. Rasmussen, Marc Roeschlin, Ivan Martinovic, Gene Tsudik
+Michael Dietz and Dan S. Wallach
+Maliheh Shirvanian, Stanislaw Jarecki, Nitesh Saxena, Naveen Nathan
+Adam Bates, Ryan Leonard, Hannah Pruse, Daniel Lowd, and Kevin R. B. Butler
+Robert Templeman, Mohammed Korayem, David Crandall, Apu Kapadia
+Bo Chen, Reza Curtmola
+Zhang Xu, Haining Wang, Zichen Xu, Xiaorui Wang
+Youngsam Park, Jackie Jones, Damon McCoy, Elaine Shi, Markus Jakobsson
+Danny Yuxing Huang, Hitesh Dharmdasani, Sarah Meiklejohn, Vacha Dave, Chris Grier, Damon McCoy, Stefan Savage, Nicholas Weaver, Alex C. Snoeren and Kirill Levchenko
+Siegfried Rasthofer, Steven Arzt, Eric Bodden
+Chiachih Wu, Yajin Zhou, Kunal Patel, Zhenkai Liang, Xuxian Jiang
+David Sounthiraraj, Justin Sahs, Garret Greenwood, Zhiqiang Lin, Latifur Khan
+Mu Zhang, Heng Yin
+Sebastian Poeplau, Yanick Fratantonio, Antonio Bianchi, Christopher Kruegel, Giovanni Vigna
+Luca Invernizzi, Stanislav Miskovic, Ruben Torres, Christopher Kruegel, Sabyasachi Saha, Giovanni Vigna, Sung-Ju Lee, Marco Mellia
+Sebastian Vogl, Jonas Pfoh, Thomas Kittel, and Claudia Eckert Technische Universitat Munchen
+Daniel Arp, Michael Spreitzenbarth, Malte Hubner, Hugo Gascon, and Konrad Rieck
+Yeongjin Jang, Simon P. Chung, Bryan D. Payne, Wenke Lee
+Ajaya Neupane, Nitesh Saxena, Keya Kuruvilla, Michael Georgescu, Rajesh Kana
+Antoine Delignat-Lavaud, Mart ́ın Abadi, Andrew Birrell, Ilya Mironov, Ted Wobber, Yinglian Xie
+Travis Mayberry, Erik-Oliver Blass, Agnes Hui Chan
+Matthias Schulz, Adrian Loch, Matthias Hollick
+Arnis Parsovs
