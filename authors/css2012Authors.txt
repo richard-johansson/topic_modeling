@@ -1,3 +1,4 @@
+Virgil D.
 Raoul Strackx, Frank Piessens
 Yu-Yuan Chen, Pramod A., Ruby B.
 Hyungon Moon, Hojoon Lee, Jihoon Lee, Kihwan Kim, Yunheung Paek, Brent Byunghoon
@@ -51,6 +52,7 @@ Xiang Cai, Xin Cheng, Brijesh Joshi, Rob Johnson
 Reza Shokri, George Theodorakopoulos, Carmela Troncoso, Jean-Pierre Hubaux, Jean-Yves Le
 Mudhakar Srivatsa, Mike Hicks
 Rui Chen, Gergely Acs, Claude Castelluccia
+Ilya Mironov
 Michaela Hardt, Suman Nath
 Zhou Li, Kehuan Zhang, Yinglian Xie, Fang Yu, XiaoFeng Wang
 Istemi Ekin, Ruichuan Chen, Michaela Hardt, Paul Francis, Johannes Gehrke
