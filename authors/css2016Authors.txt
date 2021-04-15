@@ -1,3 +1,4 @@
+Martin E.
 Arthur Gervais, Ghassan O., Karl Wüst, Vasileios Glykantzis, Hubert Ritzdorf, Srdjan Capkun
 Loi Luu, Viswesh Narayanan, Chaodong Zheng, Kunal Baweja, Seth Gilbert, Prateek Saxena
 Andrew Miller, Yu Xia, Kyle Croman, Elaine Shi, Dawn Song
@@ -87,6 +88,7 @@ David I., Jairo A., Alvaro A., Nils Ole, Junia Valente, Mustafa Faisal, Justin R
 Merve Sahin, Aurélien Francillon
 Guan-Hua Tu, Chi-Yu Li, Chunyi Peng, Yuanjie Li, Songwu Lu
 Daniel S., Daniel Apon, Seung Geol, Arkady Yerukhimovich
+Raphael Bost
 F. Betül, Thomas M., David Cash
 Kevin Lewi, David J.
 Zhenfeng Zhang, Kang Yang, Xuexian Hu, Yuchen Wang
@@ -112,6 +114,7 @@ Daiping Liu, Shuai Hao, Haining Wang
 Johannes Krupp, Michael Backes, Christian Rossow
 Hugo Krawczyk
 Vladimir Kolesnikov, Hugo Krawczyk, Yehuda Lindell, Alex Malozemoff, Tal Rabin
+Yunlei Zhao
 Martin R., Jean Paul, Torben Brandt, Kenneth G.
 Juraj Somorovsky
 Shuqin Fan, Wenbo Wang, Qingfeng Cheng
