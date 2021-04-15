@@ -59,6 +59,7 @@ Alexey Reznichenko, Saikat Guha, Paul Francis
 Ryan Henry, Femi Olumofin, Ian Goldberg
 Pierre Baldi, Roberta Baronio, Emiliano De, Paolo Gasti, Gene Tsudik
 Florian Kerschbaum
+Lior Malka
 Florian Adamsky, Hassan Khan, Muttukrishnan Rajarajan, Syed Ali, Rudolf Jäger
 Seyed Ali, Gordon B.
 Patrik Bichsel, Franz-Stefan Preiss
@@ -75,6 +76,7 @@ Xi Gong, Ting Yu, Adam Lee
 Weili Han, Zheran Fang, Weifeng Chen, Wenyuan Xu, Chang Lei
 Weili Han, Chenguang Shen, Yuliang Yin, Yun Gu, Chen Chen
 Jun Hu, Hongyu Gao, Zhichun Li, Yan Chen
+Ashar Javed
 Arjan Jeckmans, Qiang Tang, Pieter Hartel
 Ünal Kocabas, Ahmad Reza, Christian Wachsmann, Steffen Schulz
 Yao Liu, Peng Ning

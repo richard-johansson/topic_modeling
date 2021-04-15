@@ -9,6 +9,7 @@ Chengcheng Xiang, Yudong Wu, Bingyu Shen, Mingyao Shen, Haochen Huang, Tianyin X
 Hooman Mohajeri, Gunes Acar, Ben Burgess, Arunesh Mathur, Danny Yuxing, Nick Feamster, Edward W., Prateek Mittal, Arvind Narayanan
 Ben Weinshel, Miranda Wei, Mainack Mondal, Euirim Choi, Shawn Shan, Claire Dolin, Michelle L., Blase Ur
 Daniel Gruss, Erik Kraft, Trishita Tiwari, Michael Schwarz, Ari Trachtenberg, Jason Hennessey, Alex Ionescu, Anders Fogh
+Keegan Ryan
 Pengfei Qiu, Dongsheng Wang, Yongqiang Lyu, Gang Qu
 Yue Cao, Zhongjie Wang, Zhiyun Qian, Chengyu Song, Srikanth V., Paul Yu
 Ziqi Yang, Jiyi Zhang, Ee-Chien Chang, Zhenkai Liang
@@ -98,6 +99,7 @@ Armaiti Ardeshiricham, Yoshiki Takashima, Sicun Gao, Ryan Kastner
 Melissa Chase, Apoorvaa Deshpande, Esha Ghosh, Harjasleen Malvai
 Jianting Ning, Geong Sen, Jia-Ch'ng Loh, Jason Chia, Ee-Chien Chang
 Johannes Blömer, Jan Bobolz, Denis Diemert, Fabian Eidens
+N. Asokan
 Sean Heelan, Tom Melham, Daniel Kroening
 Yueqi Chen, Xinyu Xing
 Shijun Zhao, Qianying Zhang, Yu Qin, Wei Feng, Dengguo Feng
@@ -191,6 +193,7 @@ Weikang Bian, Wei Meng, Yi Wang
 Seoyoung Kim, Seyeon Jeong, Mingi Cho, Soochang Chung, Taekyoung Kwon
 Radu Sion, Charalampos Papamanthou
 Nils Ole, Avishai Wool
+Zhuo Lu
 Maryam Mehrnezhad, Thyla van, Feng Hao
 Begül Bilgin, Svetla Nikova, Vincent Rijmen
 Michael Brenner, Tancrède Lepoint, Kurt Rohloff
