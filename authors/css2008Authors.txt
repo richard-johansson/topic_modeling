@@ -1,0 +1,50 @@
+Chris Kanich, Christian Kreibich, Kirill Levchenko, Brandon Enright, Geoffrey M., Vern Paxson, Stefan Savage
+Aurélien Francillon, Claude Castelluccia
+Erik Buchanan, Ryan Roemer, Hovav Shacham, Stefan Savage
+Walter Chang, Brandon Streiff, Calvin Lin
+Artem Dinaburg, Paul Royal, Monirul Sharif, Wenke Lee
+Diptikalyan Saha
+Adam Barth, Collin Jackson, John C.
+Terri Oda, Glenn Wurster, P. C., Anil Somayaji
+Steven Crites, Francis Hsu, Hao Chen
+Hubert Comon-Lundh, Véronique Cortier
+Ralf Küsters, Tomasz Truderung
+Peter Williams, Radu Sion, Bogdan Carbunar
+Kasper Bonne, Srdjan Čapkun
+Matthew Finifter, Adrian Mettler, Naveen Sastry, David Wagner
+Mudhakar Srivatsa, Shane Balfe, Kenneth G., Pankaj Rohatgi
+Hitesh Ballani, Paul Francis
+Maxim Raya, Mohammad Hossein, Márk Félegyhazi, Jean-Pierre Hubaux
+David Dagon, Manos Antonakakis, Paul Vixie, Tatuya Jinmei, Wenke Lee
+Arnar Birgisson, Mohan Dhawan, Úlfar Erlingsson, Vinod Ganapathy, Liviu Iftode
+Lucas Ballard, Seny Kamara, Fabian Monrose, Michael K.
+Rui Wang, XiaoFeng Wang, Kehuan Zhang, Zhuowei Li
+Assaf Ben-David, Noam Nisan, Benny Pinkas
+Prateek Mittal, Nikita Borisov
+Jaeyeon Jung, Anmol Sheth, Ben Greenstein, David Wetherall, Gabriel Maganis, Tadayoshi Kohno
+Lars E., Carl A., P. Madhusudan
+Mario Frank, David Basin, Joachim M.
+Sabrina De, Sara Foresti, Sushil Jajodia, Stefano Paraboschi, Pierangela Samarati
+Wei Wang, Mehul Motani, Vikram Srinivasan
+Patrick P., Man Ho, Apu Kapadia, Sean W.
+Jan Camenisch, Thomas Groß
+Michael Backes, Cǎtǎlin Hritcu, Matteo Maffei
+Judicaël Courant, Marion Daubignard, Cristian Ene, Pascal Lafourcade, Yassine Lakhnech
+Avik Chaudhuri, Prasad Naldurg, Sriram K., G. Ramalingam, Lakshmisubrahmanyam Velaga
+Weidong Cui, Marcus Peinado, Karl Chen, Helen J., Luis Irun-Briz
+Kevin R.B., Stephen McLaughlin, Patrick D.
+Alexandra Boldyreva, Vipul Goyal, Virendra Kumar
+Vipul Goyal, Steve Lu, Amit Sahai, Brent Waters
+Charalampos Papamanthou, Roberto Tamassia, Nikos Triandopoulos
+Ali Bagherzandi, Jung-Hee Cheon, Stanislaw Jarecki
+Karthikeyan Bhargavan, Cédric Fournet, Ricardo Corin, Eugen Zalinescu
+Benjamin Laxton, Kai Wang, Stefan Savage
+Alexei Czeskis, Karl Koscher, Joshua R., Tadayoshi Kohno
+Carmit Hazay, Yehuda Lindell
+Dan Boneh, Moni Naor
+Benoît Libert, Damien Vergnaud
+Haowen Chan, Adrian Perrig
+Philippe Golle
+Jeff Yan, Ahmad Salah
+Ellick M., Jeffrey C., Francis M., Reza Farivar, Roy H.
+Justin Cappos, Justin Samuel, Scott Baker, John H.

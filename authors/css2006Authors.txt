@@ -1,0 +1,54 @@
+Bo Zhu, Sanjeev Setia, Sushil Jajodia
+Arjun Nambiar, Matthew Wright
+XiaoFeng Wang, Zhuowei Li, Jun Xu, Michael K., Chongkyung Kil, Jong Youl
+Shai Rubin, Somesh Jha, Barton P.
+Prahlad Fogla, Wenke Lee
+Philippe Golle, Frank McSherry, Ilya Mironov
+Reza Curtmola, Juan Garay, Seny Kamara, Rafail Ostrovsky
+Vipul Goyal, Omkant Pandey, Amit Sahai, Brent Waters
+Matthew Pirretti, Patrick Traynor, Patrick McDaniel, Brent Waters
+Ninghui Li, Mahesh V., Qihua Wang
+Adam J., Marianne Winslett
+Keith Irwin, Ting Yu, William H.
+Jaideep Vaidya, Vijayalakshmi Atluri, Janice Warner
+Umesh Shankar, Chris Karlof
+John Brainard, Ari Juels, Ronald L., Michael Szydlo, Moti Yung
+Mengjun Xie, Heng Yin, Haining Wang
+Xavier Boyen, Hovav Shacham, Emily Shen, Brent Waters
+Jan Camenisch, Susan Hohenberger, Markulf Kohlweiss, Anna Lysyanskaya, Mira Meyerovich
+Dan Boneh, Brent Waters
+V. T., S. Antonatos, P. Akritidis, K. G.
+Joshua Mason, Kathryn Watkins, Jason Eisner, Adam Stubblefield
+Yigael Berger, Avishai Wool, Arie Yeredor
+Marc Liberatore, Brian Neil
+Kun Sun, Peng Ning, Cliff Wang
+Haowen Chan, Adrian Perrig, Dawn Song
+Giuseppe Ateniese, Alfredo De, Anna Lisa, Barbara Masucci
+Kevin Butler, Patrick McDaniel, William Aiello
+James Newsome, David Brumley, Jason Franklin, Dawn Song
+Cristian Cadar, Vijay Ganesh, Peter M., David L., Dawson R.
+Xinming Ou, Wayne F., Miles A.
+Constance L., Myla Archer, Elizabeth I., John McLean
+Ninghui Li, Qihua Wang
+Michael Backes, Peeter Laud
+Mihir Bellare, Tadayoshi Kohno, Victor Shoup
+Mihir Bellare, Gregory Neven
+Mario Di, Rosario Gennaro, Hugo Krawczyk
+Louis Kruger, Somesh Jha, Eu-Jin Goh, Dan Boneh
+S. Mathew, R. Giomundo, S. Upadhyaya, M. Sudit, A. Stotz
+L. Li, P. Liu, G. Kesidis
+Asaf Shabtai, Denis Klimov, Yuval Shahar, Yuval Elovici
+Pin Ren, John Kristoff, Bruce Gooch
+Warren Harrop, Grenville Armitage
+Charles V., Fabian Monrose, Gerald M.
+Weichao Wang, Aidong Lu
+Kulsoom Abdullah, John A.
+William Yurcik
+William Yurcik
+Jon Oberheide, Manish Karir, Dionysus Blazakis
+Soon Tee, Supranamaya Ranjan, Antonio Nucci, Chen-Nee Chuah
+Dino Schweitzer, Leemon Baird
+Patrick Hertzog
+Christopher P., John A.
+Amanda L., Dennis P.
+Erwan Le, Masayoshi Kohara, Yoshiaki Hori, Kouichi Sakurai

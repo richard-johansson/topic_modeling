@@ -1,0 +1,26 @@
+Niklas Frykholm, Ari Juels
+Philip MacKenzie, Michael K.
+David Naccache, David Pointcheval, Jacques Stern
+Adrian Perrig
+Duminda Wijesekera, Sushil Jajodia
+Vijayalakshmi Atluri, Soon Ae, Pietro Mazzoleni
+Gustaf Neumann, Mark Strembeck
+Naoya Nitta, Yoshiaki Takata, Hiroyuki Seki
+Alan Harbitter, Daniel A.
+Giuseppe Ateniese, Stefan Mangard
+Federico Crazzolara, Glynn Winskel
+Joseph Y., Riccardo Pucella
+Marc Waldman, David Mazières
+P. Devanbu, M. Gertz, A. Kwong, C. Martel, G. Nuckolls, S. G.
+Ting Yu, Marianne Winslett, Kent E.
+Ninghui Li, William H., John C.
+Jonathan Millen, Vitaly Shmatikov
+R. Chadha, M. Kanovich, A. Scedrov
+Joshua D., F. Javier, Lenore D.
+Phillip Rogaway, Mihir Bellare, John Black, Ted Krovetz
+Dario Catalano, Rosario Gennaro, Nick Howgrave-Graham, Phong Q.
+Stuart Haber, Benny Pinkas
+Dawn Xiaodong
+Catherine Meadows, Paul Syverson
+Silvio Micali, Kazuo Ohta, Leonid Reyzin
+Emmanuel Bresson, Olivier Chevassut, David Pointcheval, Jean-Jacques Quisquater

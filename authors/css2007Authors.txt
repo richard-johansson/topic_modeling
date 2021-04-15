@@ -1,0 +1,51 @@
+Shuo Chen, David Ross, Yi-Min Wang
+Sruthi Bandhakavi, Prithvi Bisht, P. Madhusudan, V. N.
+Davide Balzarotti, Marco Cova, Viktoria V., Giovanni Vigna
+Paul Dunphy, Jeff Yan
+Chris Karlof, Umesh Shankar, J. D., David Wagner
+Patrick P., Man Ho, Apu Kapadia, Sean W.
+Nicholas Hopper, Eugene Y., Eric Chan-Tin
+Nikita Borisov, George Danezis, Prateek Mittal, Parisa Tabriz
+Nick L., Michael Hicks
+Heng Yin, Dawn Song, Manuel Egele, Christopher Kruegel, Engin Kirda
+Xuxian Jiang, Xinyuan Wang, Dongyan Xu
+Jose M., Vern Paxson, Nicholas Weaver
+Miroslav Ponec, Paul Giura, Hervé Brönnimann, Joel Wein
+Baik Hoh, Marco Gruteser, Hui Xiong, Ansaf Alrabady
+Mihir Bellare, Phillip Rogaway
+Ran Canetti, Susan Hohenberger
+Rafail Ostrovsky, Amit Sahai, Brent Waters
+Rinku Dewri, Nayot Poolsappasit, Indrajit Ray, Darrell Whitley
+David John, Cristina Nita-Rotaru
+Bivas Mitra, Fernando Peruani, Sujoy Ghose, Niloy Ganguly
+Serdar Cabuk, Chris I., HariGovind Ramasamy, Matthias Schunter
+Tal Moran, Moni Naor
+Sujata Garera, Aviel D.
+Benoît Libert, Jean-Jacques Quisquater, Moti Yung
+Alexandra Boldyreva, Craig Gentry, Adam O'Neill, Dae Hyun
+Boris Köpf, David Basin
+Daniel V., Dan Boneh, Eu-Jin Goh, Ari Juels
+Steven Gianvecchio, Haining Wang
+Juan Caballero, Heng Yin, Zhenkai Liang, Dawn Song
+J. Alex, Brent Waters
+Anirudh Ramachandran, Nick Feamster, Santosh Vempala
+Jeffrey S., Ruby B.
+Babak Azimi-Sadjadi, Aggelos Kiayias, Alejandra Mercado, Bulent Yener
+Stanisław Jarecki, Jihye Kim, Gene Tsudik
+Collin Jackson, Adam Barth, Andrew Bortz, Weidong Shao, Dan Boneh
+Chris Lesniewski-Laas, Bryan Ford, Jacob Strauss, Robert Morris, M. Frans
+Scott D., Ping Yang, C R., Mikhail I.
+Ling Cheung, Calvin Newport
+Shai Halevi, Hugo Krawczyk
+Leo Dorrendorf, Zvi Gutterman, Benny Pinkas
+Paul Bunn, Rafail Ostrovsky
+Justin Brickell, Donald E., Vitaly Shmatikov, Emmett Witchel
+Fengjun Li, Bo Luo, Peng Liu, Dongwon Lee, Chao-Hsien Chu
+Juan Ramón, Stefan Katzenbeisser, Mehmet Celik
+Stephan Neuhaus, Thomas Zimmermann, Christian Holler, Andreas Zeller
+Yingbo Song, Michael E., Angelos Stavrou, Angelos D., Salvatore J.
+Hovav Shacham
+Emre C., Peng Ning, Chongkyung Kil, Jun Xu
+Lei Zhang, Sushil Jajodia, Alexander Brodsky
+Ari Juels, Burton S.
+Giuseppe Ateniese, Randal Burns, Reza Curtmola, Joseph Herring, Lea Kissner, Zachary Peterson, Dawn Song

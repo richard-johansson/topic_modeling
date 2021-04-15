@@ -1,0 +1,50 @@
+Holger Dreger, Anja Feldmann, Vern Paxson, Robin Sommer
+Kirill Levchenko, Ramamohan Paturi, George Varghese
+Giovanni Vigna, William Robertson, Davide Balzarotti
+Kulesh Shanmugasundaram, Hervé Brönnimann, Nasir Memon
+Ninghui Li, Ziad Bizri, Mahesh V.
+Apu Kapadia, Geetanjali Sampemane, Roy H.
+Mahesh V., Ninghui Li
+Tadayoshi Kohno
+Neil Daswani, Hector Garcia-Molina
+Kevin Borders, Atul Prakash
+Adam J., Harish Sethu
+Ernie Brickell, Jan Camenisch, Liqun Chen
+Robert W., Jason E., Kent E.
+Shouhuai Xu, Moti Yung
+Dan Boneh, Hovav Shacham
+Serdar Cabuk, Carla E., Clay Shields
+David Woodruff, Jessica Staddon
+Stephen Chong, Andrew C.
+David Molnar, David Wagner
+Philippe Golle, Ari Juels
+Michael K., Xiaofeng Wang
+Volker Roth, Kai Richter, Rene Freidinger
+Brent Waters, Ari Juels, J. Alex, Edward W.
+XiaoFeng Wang, Michael K.
+Karthikeyan Bhargavan, Cédric Fournet, Andrew D.
+Stéphanie Delaune, Florent Jacquemard
+Hao Chen, Jonathan S.
+Hovav Shacham, Matthew Page, Ben Pfaff, Eu-Jin Goh, Nagendra Modadugu, Dan Boneh
+Reiner Sailer, Trent Jaeger, Xiaolan Zhang, Leendert van
+Debin Gao, Michael K., Dawn Song
+Theodore Diament, Homin K., Angelos D., Moti Yung
+Yevgeniy Dodis, Michael J., Stanislaw Jarecki, Shabsi Walfish
+Danfeng Yao, Nelly Fazio, Yevgeniy Dodis, Anna Lysyanskaya
+Maja Pusara, Carla E.
+Charles Wright, Fabian Monrose, Gerald M.
+Gaurav Tandon, Philip Chan, Debasis Mitra
+Xiaoxin Yin, William Yurcik, Michael Treaster, Yifan Li, Kiran Lakkaraju
+Soon Tee, Ke Zhang, Shih-Ming Tseng, Kwan-Liu Ma, S. Felix
+Gregory Conti, Kulsoom Abdullah
+Robert Ball, Glenn A., Chris North
+Kiran Lakkaraju, William Yurcik, Adam J.
+Jonathan McPherson, Kwan-Liu Ma, Paul Krystosk, Tony Bartoletti, Marvin Christensen
+Christos Papadopoulos, Chris Kyriakakis, Alexander Sawchuk, Xinming He
+Stefan Axelsson
+Steven Noel, Sushil Jajodia
+Alfonso Valdes, Martin Fong
+Wei-Jen Li, Shlomo Hershkop, Salvatore J.
+William Yurcik, Xin Meng, Nadir Kiyanclar
+Jeffrey B., Gregory Stephens
+Hideki Koike, Kazuhiro Ohno

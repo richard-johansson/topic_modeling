@@ -1,0 +1,34 @@
+Charlie Kaufman, Radia Perlman, Bill Sommerfeld
+William G., Angelos Stavrou, Debra L., Angelos D., Vishal Misra, Dan Rubenstein
+Xinyuan Wang, Douglas S.
+Cheng Jin, Haining Wang, Kang G.
+Wenliang Du, Jing Deng, Yunghsiang S., Pramod K.
+Donggang Liu, Peng Ning
+Sencun Zhu, Sanjeev Setia, Sushil Jajodia
+Makoto Murata, Akihiko Tozawa, Michiharu Kudo, Satoshi Hada
+Jason Crampton
+Ernesto Damiani, S. De, Sushil Jajodia, Stefano Paraboschi, Pierangela Samarati
+Ari Juels, Ronald L., Michael Szydlo
+Brent R., Edward W., Amit Sahai
+Luis von, Andrew Bortz, Nicholas J.
+Eric Cronin, Sugih Jamin, Tal Malkin, Patrick McDaniel
+Baoshi Zhu, Jiankang Wu, Mohan S.
+Jonathan Katz, Nan Wang
+William Aiello, John Ioannidis, Patrick McDaniel
+Peng Liu, Wanyu Zang
+Cliff Changchun, Lixin Gao, Weibo Gong, Don Towsley
+Peng Ning, Dingbang Xu
+Philip MacKenzie, Alina Oprea, Michael K.
+Michael Backes, Birgit Pfitzmann, Michael Waidner
+Donggang Liu, Peng Ning, Kun Sun
+Emmanuel Bresson, Olivier Chevassut, David Pointcheval
+Christopher Kruegel, Giovanni Vigna
+Robin Sommer, Vern Paxson
+Gaurav S., Angelos D., Vassilis Prevelakis
+Elena Gabriela, David H., Stephanie Forrest, Trek S., Darko Stefanovic, Dino Dai
+Cullen Linn, Saumya Debray
+Beverly Yang, Hector Garcia-Molina
+Johannes Blömer, Martin Otto, Jean-Pierre Seifert
+Junfeng Yang, Ted Kremenek, Yichen Xie, Dawson Engler
+David Basin, Sebastian Mödersheim, Luca Viganò
+Vinod Ganapathy, Somesh Jha, David Chandler, David Melski, David Vitek

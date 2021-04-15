@@ -1,0 +1,25 @@
+Mihir Bellare, Tadayoshi Kohno, Chanathip Namprempre
+Giampaolo Bella, Lawrence C., Fabio Massacci
+Jan Camenisch, Els Van
+Elisa Bertino, Barbara Carminati, Elena Ferrari
+Laurent Eschenauer, Virgil D.
+William Aiello, Steven M., Matt Blaze, John Ioannidis, Omer Reingold, Ran Canetti, Angelos D.
+Robert H., Jianying Zhou, Feng Bao
+Dan Boneh, Philippe Golle
+Christian Cachin, Klaus Kursawe, Anna Lysyanskaya, Reto Strobl
+Phillip Rogaway
+Nils Gura, Hans Eberle, Sheueling Chang
+Vishal Mittal, Giovanni Vigna
+Cliff Changchun, Weibo Gong, Don Towsley
+Blaise Gassend, Dwaine Clarke, Marten van, Srinivas Devadas
+Benny Pinkas, Tomas Sander
+Duminda Wijesekera, Sushil Jajodia
+Neil Daswani, Hector Garcia-Molina
+Michael J., Robert Morris
+Ernesto Damiani, De Capitani, Stefano Paraboschi, Pierangela Samarati, Fabio Violante
+Paul Ammann, Duminda Wijesekera, Saket Kaushik
+Antony Edwards, Trent Jaeger, Xiaolan Zhang
+Hao Chen, David Wagner
+Peng Ning, Yun Cui, Douglas S.
+David Wagner, Paolo Soto
+R. Sekar, A. Gupta, J. Frullo, T. Shanbhag, A. Tiwari, H. Yang, S. Zhou

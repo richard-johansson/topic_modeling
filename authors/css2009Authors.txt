@@ -1,0 +1,58 @@
+Martin Albrecht, Craig Gentry, Shai Halevi, Jonathan Katz
+Yves Younan, Pieter Philippaerts, Frank Piessens, Wouter Joosen, Sven Lachmund, Thomas Walter
+Yao Liu, Peng Ning, Michael K.
+Karl Koscher, Ari Juels, Vjekoslav Brajkovic, Tadayoshi Kohno
+Côme Berbain, Olivier Billet, Jonathan Etrog, Henri Gilbert
+Changshe Ma, Yingjiu Li, Robert H., Tieyan Li
+Michael Backes, Dennis Hofheinz, Dominique Unruh
+Aaron Bohannon, Benjamin C., Vilhelm Sjöberg, Stephanie Weirich, Steve Zdancewic
+Ralf Küsters, Max Tuengerthal
+Mario Frank, Andreas P., David Basin, Joachim M.
+Allison B., Brent Waters
+Melissa Chase, Sherman S.M.
+Jan Camenisch, Maria Dubovitskaya, Gregory Neven
+Andriy Panchenko, Stefan Richter, Arne Rache
+Dario Catalano, Dario Fiore, Rosario Gennaro
+Prateek Mittal, Nikita Borisov
+K. Vikram, Abhishek Prateek, Benjamin Livshits
+Kevin D., Ari Juels, Alina Oprea
+Thomas Ristenpart, Eran Tromer, Hovav Shacham, Stefan Savage
+Chris Erway, Alptekin Küpçü, Charalampos Papamanthou, Roberto Tamassia
+Patrick Traynor, Michael Lin, Machigar Ongtang, Vikhyath Rao, Trent Jaeger, Patrick McDaniel, Thomas La
+William Enck, Machigar Ongtang, Patrick McDaniel
+Justin Manweiler, Ryan Scudellari, Landon P.
+Steven Gianvecchio, Zhenyu Wu, Mengjun Xie, Haining Wang
+Edward Kaiser, Wu-chang Feng, Travis Schluessler
+Xinran Wang, Yoon-Chan Jhi, Sencun Zhu, Peng Liu
+Steffen Reidt, Mudhakar Srivatsa, Shane Balfe
+Masana Murase, Kanna Shimizu, Wilfred Plouffe, Masaharu Sakamoto
+Muhammad Qasim, Hassan Khan, Ali Sajjad, Syed Ali
+Julien Freudiger, Mohammad Hossein, Jean-Pierre Hubaux, David C.
+Rui Wang, XiaoFeng Wang, Zhou Li, Haixu Tang, Michael K., Zheng Dong
+Toby Xu, Ying Cai
+Ian Goldberg, Berkant Ustaoğlu, Matthew D., Hao Chen
+Carmela Troncoso, George Danezis
+Matthew Edman, Paul Syverson
+Eugene Vasserman, Rob Jansen, James Tyra, Nicholas Hopper, Yongdae Kim
+Claude Castelluccia, Aurélien Francillon, Daniele Perito, Claudio Soriente
+Kasper Bonne, Claude Castelluccia, Thomas S., Srdjan Capkun
+Hristo Bojinov, Elie Bursztein, Dan Boneh
+Cédric Fournet, Gurvan Le, Tamara Rezk
+Siliang Li, Gang Tan
+Andrew Meneely, Laurie Williams
+Cynthia Sturton, Susmit Jha, Sanjit A., David Wagner
+Monirul I., Wenke Lee, Weidong Cui, Andrea Lanzi
+Mudhakar Srivatsa, Dakshi Agrawal, Steffen Reidt
+Sonia Chiasson, Alain Forget, Elizabeth Stobert, P. C., Robert Biddle
+Micah Sherr, Gaurav Shah, Eric Cronin, Sandy Clark, Matt Blaze
+Joshua Mason, Sam Small, Fabian Monrose, Greg MacManus
+Rui Wang, Yong Fuga, XiaoFeng Wang, Haixu Tang, Xiaoyong Zhou
+Zhi Wang, Xuxian Jiang, Weidong Cui, Peng Ning
+Martim Carbone, Weidong Cui, Long Lu, Wenke Lee, Marcus Peinado, Xuxian Jiang
+Brendan Dolan-Gavitt, Abhinav Srivastava, Patrick Traynor, Jonathon Giffin
+Zhen Ling, Junzhou Luo, Wei Yu, Xinwen Fu, Dong Xuan, Weijia Jia
+Jon McLachlan, Andrew Tran, Nicholas Hopper, Yongdae Kim
+Patrik Bichsel, Jan Camenisch, Thomas Groß, Victor Shoup
+Xin Hu, Tzi-cker Chiueh, Kang G.
+Juan Caballero, Pongsin Poosankam, Christian Kreibich, Dawn Song
+Brett Stone-Gross, Marco Cova, Lorenzo Cavallaro, Bob Gilbert, Martin Szydlowski, Richard Kemmerer, Christopher Kruegel, Giovanni Vigna

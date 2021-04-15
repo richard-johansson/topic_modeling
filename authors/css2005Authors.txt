@@ -1,0 +1,39 @@
+Douglas Maughan
+Changhua He, Mukund Sundararajan, Anupam Datta, Ante Derek, John C.
+Mathieu Baudet
+Keith Irwin, Ting Yu
+Jiangtao Li, Ninghui Li, William H.
+Mohamed Shehab, Elisa Bertino, Arif Ghafoor
+Qiang Huang, David Jao, Helen J.
+Xinyuan Wang, Shiping Chen, Sushil Jajodia
+Giuseppe Ateniese, Jan Camenisch, Breno de
+Arvind Narayanan, Vitaly Shmatikov
+Mario Di, Rosario Gennaro
+Jean-Pierre Seifert
+Meiyuan Zhao, Sean W., David M.
+Onur Aciiçmez, Werner Schindler, Çetin K.
+Kevin Borders, Xin Zhao, Atul Prakash
+Jason Crampton
+Marianne Winslett, Charles C., Piero A.
+Jonathan Katz, Ji Sun
+Mikhail J., Keith B., Marina Blanton
+Boaz Barak, Shai Halevi
+Zhenkai Liang, R. Sekar
+Jun Xu, Peng Ning, Chongkyung Kil, Yan Zhai, Chris Bookholt
+Jedidiah R., Zhendong Su, S. Felix, Frederic T.
+Angelos Stavrou, Angelos D.
+Karl Krukow, Mogens Nielsen, Vladimiro Sassone
+Shai Rubin, Mihai Christodorescu, Vinod Ganapathy, Jonathon T., Louis Kruger, Hao Wang, Nicholas Kidd
+Matthew Yurkewych, Brian N., Arnold L.
+Mudhakar Srivatsa, Ling Liu
+Craig Gentry, Philip Mackenzie, Zulfikar Ramzan
+Giuseppe Ateniese, Susan Hohenberger
+Xavier Boyen, Qixiang Mei, Brent Waters
+Vinod Ganapathy, Trent Jaeger, Somesh Jha
+Martín Abadi, Mihai Budiu, Úlfar Erlingsson, Jay Ligatti
+Michael F., Dan Grossman
+Arvind Narayanan, Vitaly Shmatikov
+Li Zhuang, Feng Zhou, J. D.
+Rob Sherwood, Bobby Bhattacharjee, Ryan Braud
+William Enck, Patrick Traynor, Patrick McDaniel, Thomas La
+Guido Appenzeller
