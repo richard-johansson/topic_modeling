@@ -39,6 +39,7 @@ Yun Shen, Enrico Mariconti, Pierre Antoine, Gianluca Stringhini
 Wei Song, Heng Yin, Chang Liu, Dawn Song
 Karan Ganju, Qi Wang, Wei Yang, Carl A., Nikita Borisov
 Milad Nasr, Reza Shokri, Amir Houmansadr
+Shai Halevi
 Benjamin E., Samuel Jero, Anne Edmundson, Qi Wang, Richard Skowyra, James Landry, Adam Bates, William H., Cristina Nita-Rotaru, Hamed Okhravi
 Vaibhav Hemant, Adam Doupé, Yan Shoshitaishvili, Ziming Zhao, Gail-Joon Ahn
 Megha Byali, Arun Joseph, Arpita Patra, Divya Ravi
@@ -142,6 +143,7 @@ Chip Hong, Jorge Guajardo, Daniel Holcomb, Francesco Regazzoni, Ulrich Rührmair
 Awais Rashid, Nils Ole
 Roger A., Shujun Li, Victor Chang
 Massimiliano Albanese, Dijiang Huang
+Dan Meng
 Mário S., Stéphanie Delaune
 Baris Kasikci, Mark Silberstein
 Aaron Johnson, Ryan Henry
