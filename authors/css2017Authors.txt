@@ -1,3 +1,4 @@
+David Wagner
 Vladimir Kolesnikov, Jesper Buus, Mike Rosulek, Ni Trieu, Roberto Trifiletti
 Xiao Wang, Samuel Ranellucci, Jonathan Katz
 Xiao Wang, Samuel Ranellucci, Jonathan Katz
@@ -90,6 +91,7 @@ Kurt Thomas, Frank Li, Ali Zand, Jacob Barrett, Juri Ranieri, Luca Invernizzi, Y
 Doowon Kim, Bum Jun, Tudor Dumitraş
 Kee Sung, Minkyu Kim, Dongsoo Lee, Je Hong, Woo-Hwan Kim
 Raphaël Bost, Brice Minaud, Olga Ohrimenko
+Luca Allodi
 Alexander Gamero-Garrido, Stefan Savage, Kirill Levchenko, Alex C.
 Mihir Bellare, Viet Tung
 Animesh Chhotaray, Adib Nahiyan, Thomas Shrimpton, Domenic Forte, Mark Tehranipoor
@@ -183,5 +185,7 @@ Satohiro Wakabayashi, Seita Maruyama, Tatsuya Mori, Shigeki Goto, Masahiro Kinug
 Qianqian Xing, Baosheng Wang, Xiaofeng Wang
 Jeff Yan, Aurélien Bourquard
 Ya-Lin Zhang, Longfei Li, Jun Zhou, Xiaolong Li, Yujiang Liu, Yuanchao Zhang, Zhi-Hua Zhou
+Leila Bahri
 Nataliia Bielova
+Ryan Henry
 Taesoo Kim, Zhiqiang Lin, Chia-che Tsai
