@@ -1,3 +1,4 @@
+Wenke Lee
 Zhao Zhang, Wenchao Zhou, Micah Sherr
 Florentin Rochet, Ryan Wails, Aaron Johnson, Prateek Mittal, Olivier Pereira
 Diogo Barradas, Nuno Santos, Luís Rodrigues, Vítor Nunes
@@ -79,6 +80,7 @@ Eihal Alowaisheq, Siyuan Tang, Zhihao Wang, Fatemah Alharbi, Xiaojing Liao, Xiao
 Xuewei Feng, Chuanpu Fu, Qi Li, Kun Sun, Ke Xu
 Keyu Man, Zhiyun Qian, Zhongjie Wang, Xiaofeng Zheng, Youjun Huang, Haixin Duan
 Shashank Agrawal, Saikrishna Badrinarayanan, Pratyay Mukherjee, Peter Rindal
+Kovila P.L.
 Chenghui Shi, Shouling Ji, Qianjun Liu, Changchang Liu, Yuefeng Chen, Yuan He, Zhe Liu, Raheem Beyah, Ting Wang
 Joshua Tan, Lujo Bauer, Nicolas Christin, Lorrie Faith
 Hubert Comon, Charlie Jacomme, Guillaume Scerri
@@ -118,5 +120,6 @@ Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang
 Rishabh Bhadauria, Zhiyong Fang, Carmit Hazay, Muthuramakrishnan Venkitasubramaniam, Tiancheng Xie, Yupeng Zhang
 Jiaheng Zhang, Zhiyong Fang, Yupeng Zhang, Dawn Song
 David Heath, Vladimir Kolesnikov
+Alex Stamos
 Victor Zeng, Xin Zhou, Shahryar Baki, Rakesh M.
 Shuofei Zhu, Ziyi Zhang, Limin Yang, Linhai Song, Gang Wang
