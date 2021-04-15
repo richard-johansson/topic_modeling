@@ -1,3 +1,5 @@
+Moti Yung
+Edward W.
 David Adrian, Karthikeyan Bhargavan, Zakir Durumeric, Pierrick Gaudry, Matthew Green, J. Alex, Nadia Heninger, Drew Springall, Emmanuel Thomé, Luke Valenta, Benjamin VanderSloot, Eric Wustrow, Santiago Zanella-Béguelin, Paul Zimmermann
 Carlo Meijer, Roel Verdult
 Luyi Xing, Xiaolong Bai, Tongxin Li, XiaoFeng Wang, Kai Chen, Xiaojing Liao, Shi-Min Hu, Xinhui Han
@@ -93,6 +95,7 @@ Rohit Sinha, Sriram Rajamani, Sanjit Seshia, Kapil Vaswani
 Tibor Jager, Jörg Schwenk, Juraj Somorovsky
 Benjamin Dowling, Marc Fischlin, Felix Günther, Douglas Stebila
 Nik Unger, Ian Goldberg
+Sven Schäge
 Heqing Huang, Sencun Zhu, Kai Chen, Peng Liu
 Yousra Aafer, Nan Zhang, Zhongwen Zhang, Xiao Zhang, Kai Chen, XiaoFeng Wang, Xiaoyong Zhou, Wenliang Du, Michael Grace
 Yangyi Chen, Tongxin Li, XiaoFeng Wang, Kai Chen, Xinhui Han
@@ -147,6 +150,8 @@ Anoop Singhal, Changwei Liu, Duminda Wijesekara
 John Sonchack, Adam J., Eric Keller, Jonathan M.
 Jeremy Straub
 Lihua Wang, Takuya Hayashi, Sachiko Kanamori, Atsushi Waseda, Ryo Nojima, Shiho Moriai
+Zheng Wang
 Jingzheng Wu, Yanjun Wu, Mutian Yang, Zhifei Wu, Tianyue Luo, Yongji Wang
+Chia-Mu Yu
 Alex Beutel, Leman Akoglu, Christos Faloutsos
 Marco Pistoia
