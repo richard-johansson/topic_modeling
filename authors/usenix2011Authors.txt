@@ -1,0 +1,49 @@
+Pieter Hooimeijer, Benjamin Livshits, David Molnar, Prateek Saxena, Margus Veanes
+Baptiste Gourdin, Chinmay Soman, Hristo Bojinov, Elie Bursztein
+Charlie Curtsinger, Benjamin Livshits, Benjamin G. Zorn, Christian Seifert
+Sandy Clark, Travis Goodspeed, Perry Metzger, Zachary Wasserman, Kevin Xu, Matt Blaze
+Martin Mulazzani, Sebastian Schrittwieser, Manuel Leithner, Markus Huber, Edgar R. Weippl
+Stephen Checkoway, Damon McCoy, Brian Kantor, Danny Anderson, Hovav Shacham, Stefan Savage, Karl Koscher, Alexei Czeskis, Franziska Roesner, Tadayoshi Kohno
+Robert J. Walls, Erik G. Learned-Miller, Brian Neil Levine
+Ton van Deursen, Sjouke Mauw, Sasa Radomirovic
+Kevin Z. Snow, Srinivas Krishnan, Fabian Monrose, Niels Provos
+Chia Yuan Cho, Domagoj Babic, Pongsin Poosankam, Kevin Zhijie Chen, Edward XueJun Wu, Dawn Song
+Fangqi Sun, Liang Xu, Zhendong Su
+Joe Gibbs Politz, Spiridon Aristides Eliopoulos, Arjun Guha, Shriram Krishnamurthi
+Juan Caballero, Chris Grier, Christian Kreibich, Vern Paxson
+Marti Motoyama, Damon McCoy, Kirill Levchenko, Stefan Savage, Geoffrey M. Voelker
+Chris Kanich, Nicholas Weaver, Damon McCoy, Tristan Halvorson, Christian Kreibich, Kirill Levchenko, Vern Paxson, Geoffrey M. Voelker, Stefan Savage
+Shyamnath Gollakota, Nabeel Ahmed, Nickolai Zeldovich, Dina Katabi
+Tilo Müller, Felix C. Freiling, Andreas Dewald
+Joseph A. Calandrino, William Clarkson, Edward W. Felten
+Nektarios Leontiadis, Tyler Moore, Nicolas Christin
+John P. John, Fang Yu, Yinglian Xie, Arvind Krishnamurthy, Martín Abadi
+William Enck, Damien Octeau, Patrick D. McDaniel, Swarat Chaudhuri
+Adrienne Porter Felt, Helen J. Wang, Alexander Moshchuk, Steve Hanna, Erika Chin
+Michael Dietz, Shashi Shekhar, Yuliy Pisetsky, Anhei Shu, Dan S. Wallach
+Collin Mulliner, Nico Golde, Jean-Pierre Seifert
+Edward J. Schwartz, Thanassis Avgerinos, David Brumley
+Alan M. Dunn, Owen S. Hofmann, Brent Waters, Emmett Witchel
+Manos Antonakakis, Roberto Perdisci, Wenke Lee, Nikolaos Vasiloglou, David Dagon
+Gianluca Stringhini, Thorsten Holz, Brett Stone-Gross, Christopher Kruegel, Giovanni Vigna
+Grégoire Jacob, Ralf Hund, Christopher Kruegel, Thorsten Holz
+Eric Wustrow, Scott Wolchok, Ian Goldberg, J. Alex Halderman
+Prateek Mittal, Femi G. Olumofin, Carmela Troncoso, Nikita Borisov, Ian Goldberg
+Sarah Meiklejohn, Keaton Mowery, Stephen Checkoway, Hovav Shacham
+Andreas Haeberlen, Benjamin C. Pierce, Arjun Narayan
+Matthew Green, Susan Hohenberger, Brent Waters
+Yan Huang, David Evans, Jonathan Katz, Lior Malka
+Andrew Buhr, Dale Lindskog, Pavol Zavarsky, Ron Ruhl
+Yossi Gilad, Amir Herzberg
+Ang Cui, Jatin Kataria, Salvatore J. Stolfo
+Theodore Reed, Joseph Geis, Sven Dietrich
+Ludovico Cavedon, Luca Foschini, Giovanni Vigna
+Keaton Mowery, Sarah Meiklejohn, Stefan Savage
+Travis Goodspeed, Sergey Bratus, Ricky Melgares, Rebecca Shapiro, Ryan Speers
+Zhenyu Wu, Mengjun Xie, Haining Wang
+Chris Kanich, Stephen Checkoway, Keaton Mowery
+Timothy Vidas, Daniel Votipka, Nicolas Christin
+James Oakley, Sergey Bratus
+Gene Novark, Emery D. Berger
+Fabian Yamaguchi, Felix "FX" Lindner, Konrad Rieck
+Flavio D. Garcia, Gerhard de Koning Gans, Roel Verdult

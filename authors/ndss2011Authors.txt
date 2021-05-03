@@ -1,0 +1,27 @@
+Roman Schlegel, Kehuan Zhang, Xiayong Zhou, Mehool Intwala, Apu Kapadia, Xiaofeng Wang 
+Michael Backes , Matteo Maffei, Kim Pecina
+Arvind Narayanan , Narendran Thiagarajan, Mugdha Lakhani, Mike Hamburg, Dan Boneh
+Aurelien Francillon , Boris Danev, Srdjan Capkun
+Liang Cai, Kai Zeng, Hao Chen, Prasant Mohapatra
+Xi Xiong , Donghai Tian, Peng Liu
+Abhinav Srivastava , Jonathon Giffin
+Zhiqiang Lin , Junghwan Rhee, Xiangyu Zhang, Dongyan Xu, Xuxian Jiang
+Max Schuchard , Abedelaziz Mohaisen, Denis Foo Kune, Nicholas Hopper, Yongdae Kim, Eugene Y. Vasserman
+Leyla Bilge , Engin Kirda, Christopher Kruegel, Marco Balduzzi
+Asia Slowinska , Traian Stancescu, Herbert Bos
+David Dewey , Patrick Traynor
+JongHyup Lee, Thanassis Avgerinos, David Brumley
+No authors
+Thanassis Avgerinos , Brent Lim Tze Hao, David Brumley
+Marco Balduzzi , Carmen Torrano Gimenez, Davide Balzarotti, Engin Kirda
+Zhichun Li , Yi Tang, Yinzhi Cao, Vaibhav Rastogi, Yan Chen, Bin Liu, Clint Sbisa
+Xiapu Luo , Peng Zhou, Edmond W. W. Chan, Wenke Lee, Rocky K. C. Chang, Roberto Perdisci
+Eric Chan-Tin , Nicholas Hopper
+Scott Coull, Fabian Monrose
+Amir Houmansadr, Nikita Borisov
+Tobias Distler , Ivan Popov, Wolfgang Schroder-Preikschat, Hans P. Reiser, Ruediger Kapitza
+Yan Huang, Lior Malka, David Evans, Jonathan Katz
+Alana Libonati , Jonathan M. McCune, Michael K. Reiter
+Erik-Oliver Blass , Kaotar Elkhiyaoui, Refik Molva
+Manuel Egele , Christopher Kruegel, Engin Kirda, Giovanni Vigna
+Elaine Shi , T-H. Hubert Chan, Eleanor Rieffel, Richard Chow, Dawn Song

@@ -1,0 +1,15 @@
+Drew Dean , M. Franklin, Adam Stubblefield
+P. Golle , Nagendra Modadugu
+G. Byrd , N. Hillery, J. Symon
+A. Perrig , R. Canetti, Dawn Song, J. D. Tygar
+Giuseppe Ateniese , B. De Medeiros, M. T. Goodrich
+T. J. Gibson 
+T. Kwon
+B. Ribeiro , A. Zuquete, P. Ferreira, P. Guedes
+Kent E. Seamons , M. Winslett, Tom Yu
+H. Harney , A. Colgrove, P. McDaniel
+Matt Blaze , John Ioannidis, A. Keromytis
+Y. Elley , A. Anderson, Steve Hanna, S. Mullan, Radia Perlman, S. Proctor
+P. Eronen , Pekka Nikander
+A. Rudys , J. Clements, Dan S. Wallach
+T. Berson , Drew Dean, M. Franklin, D. K. Smetters, M. Spreitzer

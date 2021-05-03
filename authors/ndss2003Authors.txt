@@ -1,0 +1,17 @@
+John Ioannidis
+Martin Abadi , Michael Burrows, Ted Wobber
+Brennen Reynolds , Dipak Ghosal
+Yih-Chun Hu , A. Perrig, David Johnson
+Geoffrey Goodell , Bill Aiello, Timothy Griffin, John Ioannidis, P. McDaniel, A. Rubin
+Pekka Nikander , Yukka Yiltalo, Jorma Wall
+Martin Abadi , Cedric Fournet
+Eric Haugh , Matthew Bishop
+Eu-Jin Goh , Hovav Shacham, Nagendra Modadugu, Dan Boneh
+John Wilander , Martin Kamkar
+Tal Garfinkel
+Ashan Habib , Mohamed Hefeeda, Bharat Bhargava
+Tal Garfinkel , Mendel Rosenblum
+Anca Ivan , Yevgeniy Dodis
+Antonio Nicolosi, Maxwell Krohn, Yevgeniy Dodis, David Mazieres
+Alain Pannetrat , Refik Molva
+Dongang Liu , Peng Ning

@@ -1,0 +1,24 @@
+Darrell Bethea, Robert Cochran, Michael K. Reiter
+Scott Wolchok, Owen S. Hofmann, Nadia Heninger, Edward W. Felton, Alex Halderman, Christopher J. Rossbach, Brent Waters, Emmett Witchel
+Amir Herzberg, Haya Shulman
+Adam Barth , Adrienne Porter Felt, Prateek Saxena, Aaron Boodman
+Vincent Toubiana , Arvind Narayanan, Dan Boneh, Helen Nissenbaum, Solon Barocas
+Prateek Saxena, Steve Hanna, Pongsin Poosankam, Dawn Song
+William Robertson , Federico Maggi, Christopher Kruegel, Giovanni Vigna
+Colin Whittaker, Brian Ryner, Marria Nazif
+Spiros Antonatos, Iasonas Polakis, Thanasis Petsas, Evangerlos P. Markatos
+Zhiyun Qian, Zhuoqing Mao, Yinglian Xie, Fang Yu
+Sushant Sinha , Michael Bailey, Farnam Jahanian
+Andreas Pitsillidis , Kirill Levchenko, Christian Kreibich, Chris Kanich, Geoffrey M. Voelker, Vern Paxson, Nicholas Weaver, Stefan Savage
+Edward J. Schwartz , David Brumley, Jonathan M. McCune
+Micah Sherr , Andrew Mao, William R. Marczak, Wenchao Zhou, Boon Thau Loo, Matt Blaze
+Thomas Ristenpart , Scott Yilek
+Jiwon Seo , Monica S. Lam
+Jason Bau , John Mitchell 
+Yudong Gao , Ni Pan, Xu Chen, Z. Morley Mao
+Suresh Chari , Shai Halevi, Wietse Venema
+Adrian Mettler , David Wagner, Tyler Close
+Matthew Finifter , Joel Weinberger, Adam Barth
+Juan Caballero , Noah M. Johnson, Stephen McCamant, Dawn Song
+Zhiqiang Lin , Xiangyu Zhang, Dongyan Xu
+Davide Balzarotti, Marco Cova, Christoph Karlberger, Engin Kirda, Christopher Kruegel, Giovanni Vigna

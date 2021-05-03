@@ -1,0 +1,33 @@
+Nick L. Petroni Jr., Timothy Fraser, Aaron Walters, William A. Arbaugh
+Stefan Berger, Ramón Cáceres, Kenneth A. Goldman, Ronald Perez, Reiner Sailer, Leendert van Doorn
+Naveen Sastry
+Xinran Wang, Chi-Chun Pan, Peng Liu, Sencun Zhu
+Prahlad Fogla, Monirul I. Sharif, Roberto Perdisci, Oleg M. Kolesnikov, Wenke Lee
+Holger Dreger, Anja Feldmann
+Engin Kirda, Christopher Kruegel
+Octavian Udrea, Cristian Lumezanu
+Stephen McCamant, Greg Morrisett
+Yichen Xie, Alex Aiken
+Martín Casado, Tal Garfinkel, Aditya Akella, Michael J. Freedman, Dan Boneh, Nick McKeown
+Mohit Lad, Daniel Massey, Dan Pei, Yiguo Wu, Beichuan Zhang, Lixia Zhang
+Jason Franklin, Damon McCoy
+Andy Ozment, Stuart E. Schechter
+Benjamin Cox, David Evans
+Wei Xu, Sandeep Bhatkar, R. Sekar
+Ilan Kirschenbaum, Avishai Wool
+Gaurav Shah, Andrés Molina
+J. Alex Halderman, Edward W. Felten
+Sonia Chiasson, Paul C. van Oorschot, Robert Biddle
+Chengyu Ma, Nan Hu, Yingjiu Li
+Lucas Ballard, Fabian Monrose, Daniel P. Lopresti
+David Whyte, Paul C. van Oorschot, Evangelos Kranakis
+David Brumley, Dawn Song
+Vern Paxson, Krste Asanovic, Sarang Dharmapurikar, John W. Lockwood, Ruoming Pang, Robin Sommer, Nicholas Weaver
+William R. Cheswick
+Anthony Bellissimo, John Burgess, Kevin Fu
+Sotiris Ioannidis, Stelios Sidiroglou, Angelos D. Keromytis
+Trent Jaeger, Patrick D. McDaniel, Luke St. Clair, Ramón Cáceres, Reiner Sailer
+Madhukar Anand, Eric Cronin, Micah Sherr, Zachary G. Ives, Insup Lee
+Rick Wash, Jeffrey K. MacKie-Mason
+Dinei Florêncio, Cormac Herley
+Eric Osterweil, Daniel Massey, Batsukh Tsendjav, Beichuan Zhang, Lixia Zhang

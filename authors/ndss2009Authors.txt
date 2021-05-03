@@ -1,0 +1,20 @@
+Y. Nadji, Prateek Saxena, Dawn Song
+R. Sekar
+M. Van Gundy, Hao Chen
+P. Williams , R. Sion, D. Shasha
+S. S. M. Chow , J. Lee, L. Subramanian
+G. Danezis, P. Mittal
+Y. Song , A. Keromytis, S. Stolfo
+Nicholas Weaver, R. Sommer, Vern Paxson
+C. Gates
+X. Hu , M. Knysz, K. G. Shin
+U. Bayer , P. Milani Comparetti, C. Hlauschek, Christopher Kruegel, Engin Kirda
+A. Lanzi , M. Sharif, Wenke Lee
+Amir Houmansadr , N. Kiyavash, Nikita Borisov
+C. Wright , Scott Coull, Fabian Monrose
+D. Dagon , M. Antonakakis, K. Day, Xiapu Luo, Wenke Lee
+Hong Chen , Ninghui Li, Ziqing Mao
+Tielei Wang , T. Wei, Zhiqiang Lin, Wei Zou
+Jonathan M. McCune , A. Perrig, Michael K. Reiter
+C. Karlof , J. D. Tygar, David Wagner
+Michael Backes , P. Druschel, A. Haeberlen, D. Unruh

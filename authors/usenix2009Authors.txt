@@ -1,0 +1,25 @@
+Martin Vuagnoux, Sylvain Pasini
+Kehuan Zhang, XiaoFeng Wang
+Nathan S. Evans, Roger Dingledine, Christian Grothoff
+Periklis Akritidis, Manuel Costa, Miguel Castro, Steven Hand
+David Molnar, Xue Cong Li, David A. Wagner
+John Criswell, Nicolas Geoffray, Vikram S. Adve
+Shuang Hao, Nadeem Ahmed Syed, Nick Feamster, Alexander G. Gray, Sven Krasser
+Tongqing Qiu, Lusheng Ji, Dan Pei, Jia Wang, Jun (Jim) Xu, Hitesh Ballani
+Salvatore Guarnieri, V. Benjamin Livshits
+Paruj Ratanaworabhan, V. Benjamin Livshits, Benjamin G. Zorn
+Adam Barth, Joel Weinberger, Dawn Song
+Boris Danev, Thomas S. Heydt-Benjamin, Srdjan Capkun
+Mastooreh Salajegheh, Shane S. Clark, Benjamin Ransford, Kevin Fu, Ari Juels
+Christina Pöpper, Mario Strasser, Srdjan Capkun
+Kapil Singh, Sumeer Bhola, Wenke Lee
+Michael Dalton, Christos Kozyrakis, Nickolai Zeldovich
+William K. Robertson, Giovanni Vigna
+Roxana Geambasu, Tadayoshi Kohno, Amit A. Levy, Henry M. Levy
+Scott A. Crosby, Dan S. Wallach
+Raluca A. Popa, Hari Balakrishnan, Andrew J. Blumberg
+Clemens Kolbitsch, Paolo Milani Comparetti, Christopher Kruegel, Engin Kirda, Xiao-yong Zhou, XiaoFeng Wang
+Kevin Borders, Eric Vander Weele, Billy Lau, Atul Prakash
+Ralf Hund, Thorsten Holz, Felix C. Freiling
+Joshua Sunshine, Serge Egelman, Hazim Almuhimedi, Neha Atri, Lorrie Faith Cranor
+Helen J. Wang, Chris Grier, Alexander Moshchuk, Samuel T. King, Piali Choudhury, Herman Venter

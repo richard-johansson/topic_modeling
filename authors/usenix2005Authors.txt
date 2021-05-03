@@ -1,0 +1,22 @@
+Nikita Borisov, Robert Johnson
+Heng Yin, Haining Wang
+Jim Chow, Ben Pfaff, Tal Garfinkel, Mendel Rosenblum
+Cullen Linn, Mohan Rajagopalan, Scott Baker, Christian S. Collberg, Saumya K. Debray, John H. Hartman
+Sandeep Bhatkar, Daniel C. DuVarney
+V. Benjamin Livshits, Monica S. Lam
+Gautam Altekar, Ilya Bagrak, Paul Burstein, Andrew Schultz
+John Bethencourt, Jason Franklin, Mary K. Vernon
+Yoichi Shinoda, Ko Ikai, Motomu Itoh
+Moheeb Abu Rajab, Fabian Monrose, Andreas Terzis
+Ana Nora Sovarel, David Evans, Nathanael Paul
+Christopher Kruegel, Engin Kirda, Darren Mutz, William K. Robertson, Giovanni Vigna
+Shuo Chen, Jun Xu, Emre Can Sezer
+Vinod Yegneswaran, Jonathon T. Giffin, Paul Barford, Somesh Jha
+Xinming Ou, Sudhakar Govindavajhala, Andrew W. Appel
+Kostas G. Anagnostakis, Stelios Sidiroglou, Periklis Akritidis, Konstantinos Xinidis, Evangelos P. Markatos, Angelos D. Keromytis
+Ju Wang, Xin Liu, Andrew A. Chien
+Sarang Dharmapurikar, Vern Paxson
+Mudhakar Srivatsa, Ling Liu
+Steve Bono, Matthew Green, Adam Stubblefield, Ari Juels, Aviel D. Rubin, Michael Szydlo
+Blake Ross, Collin Jackson, Nick Miyake, Dan Boneh, John C. Mitchell
+Chris Karlof, Naveen Sastry, David A. Wagner

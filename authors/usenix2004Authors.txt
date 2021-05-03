@@ -1,0 +1,22 @@
+Niels Provos
+Xuxian Jiang, Dongyan Xu
+Nicholas Weaver, Stuart Staniford, Vern Paxson
+Kumar Avijit, Prateek Gupta, Deepak Gupta
+David Brumley, Dawn Xiaodong Song
+Yevgeniy Miretskiy, Abhijith Das, Charles P. Wright, Erez Zadok
+Umesh Shankar, Monica Chew, J. D. Tygar
+Debin Gao, Michael K. Reiter, Dawn Xiaodong Song
+Robert Johnson, David A. Wagner
+Julie Thorpe, Paul C. van Oorschot
+Darren Davis, Fabian Monrose, Michael K. Reiter
+Jonathan S. Shapiro, John Vanderburgh, Eric Northup, David Chizmadia
+Nick L. Petroni Jr., Timothy Fraser, Jesus Molina, William A. Arbaugh
+Drew Dean, Alan J. Hu
+Dirk Balfanz, Glenn Durfee, Rebecca E. Grinter, Diana K. Smetters, Paul Stewart
+Reiner Sailer, Xiaolan Zhang, Trent Jaeger, Leendert van Doorn
+Patrick Lincoln, Phillip A. Porras, Vitaly Shmatikov
+Christopher Krügel, William K. Robertson, Fredrik Valeur, Giovanni Vigna
+Hyang-Ah Kim, Brad Karp
+Dahlia Malkhi, Noam Nisan, Benny Pinkas, Yaron Sella
+Roger Dingledine, Nick Mathewson, Paul F. Syverson
+Jim Chow, Ben Pfaff, Tal Garfinkel, Kevin Christopher, Mendel Rosenblum

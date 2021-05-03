@@ -1,0 +1,17 @@
+Steven D. Gribble , Alex Moshchuk, Tanya Bragin, Henry Levy
+Yi-Min Wang , Doug Beck, Xuxian Jiang, Chad Verbowski, Shuo Chen, Sam King
+William Robertson , Giovanni Vigna, Christopher Kruegel, Richard Kemmerer
+Stephan Neuhaus , Andreas Zeller
+David Brumley , Dawn Song, Jad Chamcham, Xeno Kovah
+Stelios Sidiroglou , Michael Locasto, A. Keromytis
+Stuart Schechter , Jaeyeon Jung, Will Stockwell, Cynthia McLain
+P. McDaniel , Shubho Sen, O. Spatscheck, Bill Aiello
+Weidong Cui , Vern Paxson, Nicholas Weaver, Randy Katz
+Keith Frikken , Jiangtao Li, Mikhail Atallah
+Steven Bellovin , Eric Rescorla
+Kevin Fu , Seny Kamaram, Yoshi Kohno
+Tyson Condie , Varun Kacholia, Sriram Sank, Joseph M. Hellerstein, Petros Maniatis
+Ryan Gerdes , Thomas Daniels, Mani Mina, Steve Russell
+D. Dagon , Cliff Zou, Wenke Lee
+Doug Szadja , Michael Pohl, Jason Owen, Barry Lawson
+Umesh Shankar , Trent Jaeger, Reiner Sailer

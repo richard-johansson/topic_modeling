@@ -1,0 +1,69 @@
+Niels Provos, Panayiotis Mavrommatis, Moheeb Abu Rajab, Fabian Monrose
+Adam Barth, Collin Jackson, John C. Mitchell
+Michael C. Martin, Monica S. Lam
+J. Alex Halderman, Seth D. Schoen, Nadia Heninger, William Clarkson, William Paul, Joseph A. Calandrino, Ariel J. Feldman, Jacob Appelbaum, Edward W. Felten
+Lucas Ballard, Seny Kamara, Michael K. Reiter
+Ari Juels, Ravikanth Pappu, Bryan Parno
+Jon Oberheide, Evan Cooke, Farnam Jahanian
+Jian Zhang, Phillip A. Porras, Johannes Ullrich
+Jerry Chi-Yuan Chou, Bill Lin, Subhabrata Sen, Oliver Spatscheck
+Guofei Gu, Roberto Perdisci, Junjie Zhang, Wenke Lee
+Steven Gianvecchio, Mengjun Xie, Zhengyu Wu, Haining Wang
+Karsten Nohl, David Evans, Starbug, Henryk Plötz
+Owen Harrison, John Waldron
+Sebastian Zander, Steven J. Murdoch
+Manigandan Radhakrishnan, Jon A. Solworth
+Lionel Litty, H. Andrés Lagar-Cavilla, David Lie
+Swaminathan Sundararaman, Gopalan Sivathanu, Erez Zadok
+Thomas Ristenpart, Gabriel Maganis, Arvind Krishnamurthy, Tadayoshi Kohno
+Rui Wang, XiaoFeng Wang, Zhuowei Li
+Negar Kiyavash, Amir Houmansadr, Nikita Borisov
+Sandra Julieta Rueda, Dave King, Trent Jaeger
+Ben Adida
+Daniel Sandler, Kyle Derr, Dan S. Wallach
+Gang Tan, Jason Croft
+Lin Tan, Xiaolan Zhang, Xiao Ma, Weiwei Xiong, Yuanyuan Zhou
+Michael Dalton, Hari Kannan, Christos Kozyrakis
+Javed A. Aslam, Raluca A. Popa, Ronald L. Rivest
+Arel Cordero, David A. Wagner
+Joseph A. Calandrino, J. Alex Halderman, Edward W. Felten
+J. Alex Halderman, Eric Rescorla, Hovav Shacham, David A. Wagner
+Josh Benaloh
+Daniel Sandler, Dan S. Wallach
+Seda Davtyan, Sotiris Kentros, Aggelos Kiayias, Laurent Michel, Nicolas C. Nicolaou, Alexander Russell, Andrew See, Narasimha Shashidhar, Alexander A. Shvartsman
+Joseph Lorenzo Hall
+Stephen N. Goggin, Michael D. Byrne, Juan E. Gilbert, Gregory Rogers, Jerome McClendon
+Komminist Weldemariam, Adolfo Villafiorita
+Adam J. Aviv, Pavol Cerný, Sandy Clark, Eric Cronin, Gaurav Shah, Micah Sherr, Matt Blaze
+Kevin R. B. Butler, William Enck, Harri Hursti, Stephen E. McLaughlin, Patrick Traynor, Patrick D. McDaniel
+Zhe Xia, Steve A. Schneider, James Heather, Jacques Traoré
+David Chaum, Richard Carback, Jeremy Clark, Aleksander Essex, Stefan Popoveniuc, Ronald L. Rivest, Peter Y. A. Ryan, Emily Shen, Alan T. Sherman
+Vanessa Teague, Kim Ramchen, Lee Naish
+Dan R. K. Ports, Tal Garfinkel
+Mohammad Mannan, Paul C. van Oorschot
+Thomas E. Hart, Marsha Chechik, David Lie
+Uri Braun, Avraham Shinnar, Margo I. Seltzer
+Tamara Denning, Kevin Fu, Tadayoshi Kohno
+Alvaro A. Cárdenas, Saurabh Amin, Shankar Sastry
+Alexei Czeskis, David J. St. Hilaire, Karl Koscher, Steven D. Gribble, Tadayoshi Kohno, Bruce Schneier
+Jeremy Clark, Urs Hengartner
+Bryan Parno
+Kevin Borders, Atul Prakash
+Mark Allman, Christian Kreibich, Vern Paxson, Robin Sommer, Nicholas Weaver
+Michael Piatek, Tadayoshi Kohno, Arvind Krishnamurthy
+Daniela Brauckhoff, Arno Wagner, Martin May
+Hiroaki Hazeyama, Mio Suzuki, Shinsuke Miwa, Daisuke Miyamoto, Youki Kadobayashi
+Robert Ricci, Jonathon Duerig
+Kevin Lahey, Robert Braden, Keith Sklower
+Weiqing Sun, Varun Katta, Kumar Krishna, R. Sekar
+Ted Faber, John Wroclawski
+Jelena Mirkovic, Karen R. Sollins, John Wroclawski
+Yu-Lun Huang, J. Doug Tygar, Hsiao-Ying Lin, L. Y. Yeh, Hsin-Yi Tsai, Keith Sklower, Shiuh-Pyng Shieh, C. C. Wu, P. H. Lu, S. Y. Chien, Z. S. Lin, L. W. Hsu, Chia-Wei Hsu, C. T. Hsu, Y. C. Wu, M. S. Leong
+Mark Daniel, Jake Honoroff, Charlie Miller
+Joachim Viide, Aki Helin, Marko Laakso, Pekka Pietikäinen, Mika Seppänen, Kimmo Halunen, Rauli Puuperä, Juha Röning
+Will Drewry, Tavis Ormandy
+Marco Cova, Christopher Kruegel, Giovanni Vigna
+Elizabeth Stinson, John C. Mitchell
+Aaron Portnoy, Ali Rizvi-Santiago
+Craig A. Shue, Andrew J. Kalafut, Minaxi Gupta
+Matt Miller

@@ -1,0 +1,12 @@
+Adam Stubblefield , John Ioannidis, A. Rubin
+Dirk Balfanz , D. K. Smetters, Paul Stewart, H. Chi Wong
+Suresh Chari , Pau-Chen Cheng
+John Ioannidis , Steven Bellovin
+Gabriel Montenegro , Claude Castelluccia
+Xuhua Ding , Daniele Mazzocchi, Gene Tsudik
+Peter Hesse , David Lemire
+Nikita Borisov , Eric A. Brewer
+Zoltan Nochta , Peter Ebinger, Seastian Abeck
+Christian Coarfa , P. Druschel, Dan S. Wallach
+Hovav Shacham , Dan Boneh
+Adam Hess , Jared Jacobson, Hyrum Mills, Ryan Wamsley, Kent E. Seamons, Bryan Smith

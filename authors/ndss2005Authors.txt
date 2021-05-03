@@ -1,0 +1,16 @@
+Alina Oprea , Michael K. Reiter, Ke Yang
+Giuseppe Ateniese , Kevin Fu, Matthew Green, Susan Hohenberger
+Sandeep S. Kulkarni , Bezawada Bruhadeshar
+Xiapu Luo , Rocky K. C. Chang
+Angelos Stavrou , A. Keromytis, Jason Nieh, Vishal Misra, Dan Rubenstein
+Changhua He , John Mitchell
+Qiang Huang , Nikita Borisov
+Tao Wan , Evangelos Kranakis, P. C. van Oorschot
+S. Venkataraman , Dawn Song, A. Blum
+Michael Bailey , Evan Cooke, Farnam Jahanian, Jose Nazario, David Watson
+David Whyte , Evangelos Kranakis, P. C. van Oorschot
+Alexey Smirnov , Tzi-cker Chiueh
+James Newsome , Dawn Song
+Sam King , Z. Morley Mao, Dominic C. Lucchetti, Peter M. Chen
+Shuo Chen , John Dunagan, Chad Verbowski, Yi-Min Wang
+Weiqing Sun , Z. Liang, S. Venkataraman, R. Sekar

@@ -1,0 +1,21 @@
+J. Shin , V. Gligor
+D. Dagon , C. P. Lee, Wenke Lee
+R. Snader , Nikita Borisov
+Apu Kapadia , N. Triandopoulos
+S. S. M. Chow , J. Liu, D. Wong
+Patrick Traynor , K. Butler, W. Enck, P. McDaniel
+B. Ribeiro , W. Chen, G. Miklau, D. Towsley
+Scott Coull , C. Wright, A. Keromytis, Fabian Monrose, Michael K. Reiter
+P. Williams , R. Sion
+P. Godefroid , M. Levin, D. Molnar
+Juan Caballero , T. Kampouris, Dawn Song, J. Wang
+Xiaofeng Wang , Z. Li, Ninghui Li, J. Y. Choi
+G. Wondracek , P. Milani Comparetti, Christopher Kruegel, Engin Kirda
+Zhiqiang Lin , Xuxian Jiang, Dongyan Xu, Xiangyu Zhang
+No authors
+Thorsten Holz , C. Gorecki, K. Rieck, F. Freiling
+G. Gu , J. Zhang, Wenke Lee
+S. Venkataraman , A. Blum, Dawn Song
+M. Sharif , A. Lanzi, Jonathon Giffin, Wenke Lee
+J. Bethencourt , Dawn Song, Brent Waters
+R. Racic , D. Ma, H. Chen, X. Liu

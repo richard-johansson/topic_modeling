@@ -1,0 +1,29 @@
+David Sehr, Robert Muth, Cliff Biffle, Victor Khimenko, Egor Pasko, Karl Schimpf, Bennet Yee, Brad Chen
+Taesoo Kim, Nickolai Zeldovich
+Robert N. M. Watson, Jonathan Anderson, Ben Laurie, Kris Kennaway
+Petr Marchenko, Brad Karp
+Josep Balasch, Alfredo Rial, Carmela Troncoso, Bart Preneel, Ingrid Verbauwhede, Christophe Geuens
+Gaurav Aggarwal, Elie Bursztein, Collin Jackson, Dan Boneh
+Shishir Nagaraja, Prateek Mittal, Chi-Yao Hong, Matthew Caesar, Nikita Borisov
+Chad R. Meiners, Jignesh Patel, Eric Norige, Eric Torng, Alex X. Liu
+John P. John, Fang Yu, Yinglian Xie, Martín Abadi, Arvind Krishnamurthy
+Viktoria Felmetsger, Ludovico Cavedon, Christopher Kruegel, Giovanni Vigna
+Tathagata Das, Ranjita Bhagwan, Prasad Naldurg
+Periklis Akritidis
+Sarah Meiklejohn, C. Christopher Erway, Alptekin Küpçü, Theodora Hinkle, Anna Lysyanskaya
+Yitao Duan, NetEase Youdao, John F. Canny, Justin Z. Zhan
+Martin Burkhart, Mario Strasser, Dilip Many, Xenofontas A. Dimitropoulos
+Phillipa Gill, Yashar Ganjali, Bernard Wong, David Lie
+Manos Antonakakis, Roberto Perdisci, David Dagon, Wenke Lee, Nick Feamster
+Richard Carback, David Chaum, Jeremy Clark, John Conway, Aleksander Essex, Paul S. Herrnson, Travis Mayberry, Stefan Popoveniuc, Ronald L. Rivest, Emily Shen, Alan T. Sherman, Poorvi L. Vora
+Michael Backes, Markus Dürmuth, Sebastian Gerling, Manfred Pinkal, Caroline Sporleder
+Ishtiaq Rouf, Robert D. Miller, Hossen A. Mustafa, Travis Taylor, Sangho Oh, Wenyuan Xu, Marco Gruteser, Wade Trappe, Ivan Seskar
+Sruthi Bandhakavi, Samuel T. King, P. Madhusudan, Marianne Winslett
+Vladan Djeric, Ashvin Goel
+Mike Ter Louw, Karthik Thotta Ganesh, V. N. Venkatakrishnan
+Kasper Bonne Rasmussen, Srdjan Capkun
+Andrea Bittau, Michael Hamburg, Mark Handley, David Mazières, Dan Boneh
+Roberto Paleari, Lorenzo Martignoni, Emanuele Passerini, Drew Davidson, Matt Fredrikson, Jonathon T. Giffin, Somesh Jha
+Marti Motoyama, Kirill Levchenko, Chris Kanich, Damon McCoy, Geoffrey M. Voelker, Stefan Savage
+Sam Burnett, Nick Feamster, Santosh S. Vempala
+Payas Gupta, Debin Gao
