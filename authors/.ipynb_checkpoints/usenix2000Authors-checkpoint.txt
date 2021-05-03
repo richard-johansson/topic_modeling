@@ -1,0 +1,20 @@
+Jonathan Katz, Bruce Schneier
+Michael Brown, Donny Cheung, Darrel Hankerson, Julio César López-Hernández, Michael Kirkup, Alfred Menezes
+Matt Curtin
+Robert Stone
+Yongguang Zhang, Bikramjit Singh
+Matthew Smart, G. Robert Malan, Farnam Jahanian
+Calvin Ko, Timothy Fraser, Lee Badger, Douglas Kilpatrickv
+Yin Zhang, Vern Paxson
+Yin Zhang, Vern Paxson
+Anil Somayaji, Stephanie Forrest
+Peter Gutmann
+Naomaru Itoi
+John Scott Robin, Cynthia E. Irvine
+Marc Waldman, Aviel D. Rubin, Lorrie Faith Cranor
+Markus G. Kuhn
+Josyula R. Rao, Pankaj Rohatgi
+Anurag Acharya, Mandar Raje
+Leendert van Doorn
+Niels Provos
+Rachna Dhamija, Adrian Perrig
