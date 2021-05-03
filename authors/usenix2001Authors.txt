@@ -8,6 +8,7 @@ Avishai Wool
 Peter M. Gleitz, Steven M. Bellovin
 Mark Handley, Vern Paxson, Christian Kreibich
 Scott Craver, Min Wu, Bede Liu, Adam Stubblefield, Ben Swartzlander, Dan S. Wallach, Drew Dean, Edward W. Felten
+Kingpin, Mudge
 Steven J. Bauer, Nissanka Bodhi Priyantha
 Crispin Cowan, Steve Beattie, Chris Wright, Greg Kroah-Hartman
 David Larochelle, David Evans
