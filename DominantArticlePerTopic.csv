@@ -1,0 +1,15 @@
+Topic_Nr,Topic_Name,Document_Nr,Conf,Year,Authors
+Topic_00,Software attack,5123,NDSS,2014,"Luca Invernizzi, Stanislav Miskovic, Ruben Torres, Christopher Kruegel, Sabyasachi Saha, Giovanni Vigna, Sung-Ju Lee, Marco Mellia"
+Topic_01,Hardware and operating system,2050,ACM CCS,2009,"Rui Wang, XiaoFeng Wang, Zhou Li, Haixu Tang, Michael K., Zheng Dong"
+Topic_02,User authentification,4126,IEEE S&P,2014,"Jason R.C. Nurse, Oliver Buckley, Philip A. Legg, Michael Goldsmith, Sadie Creese, Gordon R.T. Wright, Monica Whitty, "
+Topic_03,Malware detection,2430,ACM CCS,2013,"Henry Corrigan-Gibbs, Wendy Mu, Dan Boneh, Bryan Ford"
+Topic_04,Program code,3675,IEEE S&P,2002,"Ninghui Li, J.C. Mitchell, W.H. Winsborough, "
+Topic_05,Server and cloud security,350,USENIX Security,2010,"Robert N. M. Watson, Jonathan Anderson, Ben Laurie, Kris Kennaway"
+Topic_06,Browser and mobile application,3261,ACM CCS,2018,"Arnab Bag, Sikhar Patranabis, L. Tribhuvan, Debdeep Mukhopadhyay"
+Topic_07,Software exploits and vulnerabilities,4727,IEEE S&P,2020,"Edward Chou, Florian Tramèr, Giancarlo Pellegrino, "
+Topic_08,Internet protocols,2894,ACM CCS,2016,"Mahmood Sharif, Sruti Bhagavatula, Lujo Bauer, Michael K."
+Topic_09,Malicious websites,1078,USENIX Security,2017,"Ahmed Atya, Azeem Aqil, Karim Khalil, Zhiyun Qian, and Srikanth V. Krishnamurthy,  Thomas F. La Porta,"
+Topic_10,Online anonymity,1553,USENIX Security,2020,"Taslima Akter,  Bryan Dosono,  Tousif Ahmed and Apu Kapadia,  Bryan Semaan,"
+Topic_11,Fast secure internet traffic,4478,IEEE S&P,2018,"Ananya Yarramreddy, Peter Gromkowski, Ibrahim Baggili, "
+Topic_12,Privacy and personal information,5008,NDSS,2012,Zhuhua Cai and Christopher Jermaine
+Topic_13,Access management of portable devices,541,USENIX Security,2013,"Istvan Haller and Asia Slowinska,  Matthias Neugschwandtner,  Herbert Bos,"
